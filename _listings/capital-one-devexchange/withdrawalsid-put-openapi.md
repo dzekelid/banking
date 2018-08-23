@@ -968,6 +968,21 @@ paths:
       tags:
       - Banks
       - Withdrawals
+    delete:
+      summary: Delete a specific existing withdrawal
+      description: Deletes the specific withdrawal
+      operationId: deletes-the-specific-withdrawal
+      x-api-path-slug: withdrawalsid-delete
+      parameters:
+      - in: path
+        name: id
+        description: ID of the withdrawal that is being deleted
+      responses:
+        200:
+          description: OK
+      tags:
+      - Banks
+      - Withdrawals
 x-streamrank:
   polling_total_time_average: 0
   polling_size_download_average: 0

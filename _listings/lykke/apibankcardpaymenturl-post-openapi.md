@@ -33,6 +33,40 @@ paths:
           description: OK
       tags:
       - Bankcardpaymenturl
+  /api/BankCardPaymentUrlFormValues:
+    get:
+      summary: Get API Bankcardpaymenturlformvalues
+      description: Get api bankcardpaymenturlformvalues.
+      operationId: ApiBankCardPaymentUrlFormValuesGet
+      x-api-path-slug: apibankcardpaymenturlformvalues-get
+      parameters:
+      - in: header
+        name: Authorization
+        description: access token
+      responses:
+        200:
+          description: OK
+      tags:
+      - Bankcardpaymenturlformvalues
+  /api/BankTransferRequest:
+    post:
+      summary: Add API Banktransferrequest
+      description: Add api banktransferrequest.
+      operationId: ApiBankTransferRequestPost
+      x-api-path-slug: apibanktransferrequest-post
+      parameters:
+      - in: header
+        name: Authorization
+        description: access token
+      - in: body
+        name: transferReq
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - Banktransferrequest
 x-streamrank:
   polling_total_time_average: 0
   polling_size_download_average: 0

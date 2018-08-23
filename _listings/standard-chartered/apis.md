@@ -12,8 +12,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "4658"
 tags: Banking
-created: "2018-08-19"
-modified: "2018-08-19"
+created: "2018-08-23"
+modified: "2018-08-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/apis.md
 specificationVersion: "0.14"
 apis:
@@ -23,7 +23,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/standard-charter.png
   humanURL: https://developer.sc.com
   baseURL: https://developer.sc.com//
-  tags: Financial Services, UK Banks, General Data API, Relative Data API, Banking
+  tags: Financial Services, UK Banks, General Data, Relative Data, Banking
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-postman.md
@@ -35,7 +35,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/standard-charter.png
   humanURL: https://developer.sc.com
   baseURL: https://developer.sc.com//
-  tags: Financial Services, UK Banks, General Data API, Relative Data API, Banking
+  tags: Financial Services, UK Banks, General Data, Relative Data, Banking
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-postman.md
@@ -51,7 +51,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/standard-charter.png
   humanURL: https://developer.sc.com
   baseURL: https://developer.sc.com//
-  tags: Financial Services, UK Banks, General Data API, Relative Data API, Banking
+  tags: Financial Services, UK Banks, General Data, Relative Data, Banking
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-postman.md
@@ -71,7 +71,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/standard-charter.png
   humanURL: https://developer.sc.com
   baseURL: https://developer.sc.com//
-  tags: Financial Services, UK Banks, General Data API, Relative Data API, Banking
+  tags: Financial Services, UK Banks, General Data, Relative Data, Banking
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-postman.md
@@ -95,7 +95,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/standard-charter.png
   humanURL: https://developer.sc.com
   baseURL: https://developer.sc.com//
-  tags: Financial Services, UK Banks, General Data API, Relative Data API, Banking
+  tags: Financial Services, UK Banks, General Data, Relative Data, Banking
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-postman.md
@@ -123,7 +123,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/standard-charter.png
   humanURL: https://developer.sc.com
   baseURL: https://developer.sc.com//
-  tags: Financial Services, UK Banks, General Data API, Relative Data API, Banking
+  tags: Financial Services, UK Banks, General Data, Relative Data, Banking
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-postman.md
@@ -151,6 +151,874 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-openapi.md
 - name: Standard Chartered
   x-api-slug: standard-chartered
+  description: standard-chartered-plc-is-a-british-multinational-banking-and-financial-services-company-headquartered-in-london-england--it-operates-a-network-of-more-than-1200-branches-and-outlets-including-subsidiaries-associates-and-joint-ventures-across-more-than-70-countries-and-employs-around-87000-people--it-is-a-universal-bank-with-operations-in-consumer-corporate-and-institutional-banking-and-treasury-services--despite-its-uk-base-it-does-not-conduct-retail-banking-in-the-uk-and-around-90-of-its-profits-come-from-asia-africa-and-the-middle-east-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/standard-charter.png
+  humanURL: https://developer.sc.com
+  baseURL: https://developer.sc.com//
+  tags: Financial Services, UK Banks, General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-openapi.md
+- name: Standard Chartered
+  x-api-slug: standard-chartered
+  description: standard-chartered-plc-is-a-british-multinational-banking-and-financial-services-company-headquartered-in-london-england--it-operates-a-network-of-more-than-1200-branches-and-outlets-including-subsidiaries-associates-and-joint-ventures-across-more-than-70-countries-and-employs-around-87000-people--it-is-a-universal-bank-with-operations-in-consumer-corporate-and-institutional-banking-and-treasury-services--despite-its-uk-base-it-does-not-conduct-retail-banking-in-the-uk-and-around-90-of-its-profits-come-from-asia-africa-and-the-middle-east-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/standard-charter.png
+  humanURL: https://developer.sc.com
+  baseURL: https://developer.sc.com//
+  tags: Financial Services, UK Banks, General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-openapi.md
+- name: Standard Chartered
+  x-api-slug: standard-chartered
+  description: standard-chartered-plc-is-a-british-multinational-banking-and-financial-services-company-headquartered-in-london-england--it-operates-a-network-of-more-than-1200-branches-and-outlets-including-subsidiaries-associates-and-joint-ventures-across-more-than-70-countries-and-employs-around-87000-people--it-is-a-universal-bank-with-operations-in-consumer-corporate-and-institutional-banking-and-treasury-services--despite-its-uk-base-it-does-not-conduct-retail-banking-in-the-uk-and-around-90-of-its-profits-come-from-asia-africa-and-the-middle-east-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/standard-charter.png
+  humanURL: https://developer.sc.com
+  baseURL: https://developer.sc.com//
+  tags: Financial Services, UK Banks, General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactions-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactions-get-openapi.md
+- name: Standard Chartered
+  x-api-slug: standard-chartered
+  description: standard-chartered-plc-is-a-british-multinational-banking-and-financial-services-company-headquartered-in-london-england--it-operates-a-network-of-more-than-1200-branches-and-outlets-including-subsidiaries-associates-and-joint-ventures-across-more-than-70-countries-and-employs-around-87000-people--it-is-a-universal-bank-with-operations-in-consumer-corporate-and-institutional-banking-and-treasury-services--despite-its-uk-base-it-does-not-conduct-retail-banking-in-the-uk-and-around-90-of-its-profits-come-from-asia-africa-and-the-middle-east-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/standard-charter.png
+  humanURL: https://developer.sc.com
+  baseURL: https://developer.sc.com//
+  tags: Financial Services, UK Banks, General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactions-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactions-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactiontransactionid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactiontransactionid-get-openapi.md
+- name: Standard Chartered
+  x-api-slug: standard-chartered
+  description: standard-chartered-plc-is-a-british-multinational-banking-and-financial-services-company-headquartered-in-london-england--it-operates-a-network-of-more-than-1200-branches-and-outlets-including-subsidiaries-associates-and-joint-ventures-across-more-than-70-countries-and-employs-around-87000-people--it-is-a-universal-bank-with-operations-in-consumer-corporate-and-institutional-banking-and-treasury-services--despite-its-uk-base-it-does-not-conduct-retail-banking-in-the-uk-and-around-90-of-its-profits-come-from-asia-africa-and-the-middle-east-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/standard-charter.png
+  humanURL: https://developer.sc.com
+  baseURL: https://developer.sc.com//
+  tags: Financial Services, UK Banks, General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactions-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactions-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactiontransactionid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactiontransactionid-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-openapi.md
+- name: Standard Chartered
+  x-api-slug: standard-chartered
+  description: standard-chartered-plc-is-a-british-multinational-banking-and-financial-services-company-headquartered-in-london-england--it-operates-a-network-of-more-than-1200-branches-and-outlets-including-subsidiaries-associates-and-joint-ventures-across-more-than-70-countries-and-employs-around-87000-people--it-is-a-universal-bank-with-operations-in-consumer-corporate-and-institutional-banking-and-treasury-services--despite-its-uk-base-it-does-not-conduct-retail-banking-in-the-uk-and-around-90-of-its-profits-come-from-asia-africa-and-the-middle-east-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/standard-charter.png
+  humanURL: https://developer.sc.com
+  baseURL: https://developer.sc.com//
+  tags: Financial Services, UK Banks, General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactions-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactions-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactiontransactionid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactiontransactionid-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-openapi.md
+- name: Standard Chartered
+  x-api-slug: standard-chartered
+  description: standard-chartered-plc-is-a-british-multinational-banking-and-financial-services-company-headquartered-in-london-england--it-operates-a-network-of-more-than-1200-branches-and-outlets-including-subsidiaries-associates-and-joint-ventures-across-more-than-70-countries-and-employs-around-87000-people--it-is-a-universal-bank-with-operations-in-consumer-corporate-and-institutional-banking-and-treasury-services--despite-its-uk-base-it-does-not-conduct-retail-banking-in-the-uk-and-around-90-of-its-profits-come-from-asia-africa-and-the-middle-east-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/standard-charter.png
+  humanURL: https://developer.sc.com
+  baseURL: https://developer.sc.com//
+  tags: Financial Services, UK Banks, General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactions-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactions-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactiontransactionid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactiontransactionid-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-openapi.md
+- name: Standard Chartered
+  x-api-slug: standard-chartered
+  description: standard-chartered-plc-is-a-british-multinational-banking-and-financial-services-company-headquartered-in-london-england--it-operates-a-network-of-more-than-1200-branches-and-outlets-including-subsidiaries-associates-and-joint-ventures-across-more-than-70-countries-and-employs-around-87000-people--it-is-a-universal-bank-with-operations-in-consumer-corporate-and-institutional-banking-and-treasury-services--despite-its-uk-base-it-does-not-conduct-retail-banking-in-the-uk-and-around-90-of-its-profits-come-from-asia-africa-and-the-middle-east-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/standard-charter.png
+  humanURL: https://developer.sc.com
+  baseURL: https://developer.sc.com//
+  tags: Financial Services, UK Banks, General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactions-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactions-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactiontransactionid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactiontransactionid-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-openapi.md
+- name: Standard Chartered
+  x-api-slug: standard-chartered
+  description: standard-chartered-plc-is-a-british-multinational-banking-and-financial-services-company-headquartered-in-london-england--it-operates-a-network-of-more-than-1200-branches-and-outlets-including-subsidiaries-associates-and-joint-ventures-across-more-than-70-countries-and-employs-around-87000-people--it-is-a-universal-bank-with-operations-in-consumer-corporate-and-institutional-banking-and-treasury-services--despite-its-uk-base-it-does-not-conduct-retail-banking-in-the-uk-and-around-90-of-its-profits-come-from-asia-africa-and-the-middle-east-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/standard-charter.png
+  humanURL: https://developer.sc.com
+  baseURL: https://developer.sc.com//
+  tags: Financial Services, UK Banks, General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactions-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactions-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactiontransactionid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactiontransactionid-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-openapi.md
+- name: Standard Chartered
+  x-api-slug: standard-chartered
+  description: standard-chartered-plc-is-a-british-multinational-banking-and-financial-services-company-headquartered-in-london-england--it-operates-a-network-of-more-than-1200-branches-and-outlets-including-subsidiaries-associates-and-joint-ventures-across-more-than-70-countries-and-employs-around-87000-people--it-is-a-universal-bank-with-operations-in-consumer-corporate-and-institutional-banking-and-treasury-services--despite-its-uk-base-it-does-not-conduct-retail-banking-in-the-uk-and-around-90-of-its-profits-come-from-asia-africa-and-the-middle-east-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/standard-charter.png
+  humanURL: https://developer.sc.com
+  baseURL: https://developer.sc.com//
+  tags: Financial Services, UK Banks, General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactions-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactions-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactiontransactionid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactiontransactionid-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-openapi.md
+- name: Standard Chartered
+  x-api-slug: standard-chartered
+  description: standard-chartered-plc-is-a-british-multinational-banking-and-financial-services-company-headquartered-in-london-england--it-operates-a-network-of-more-than-1200-branches-and-outlets-including-subsidiaries-associates-and-joint-ventures-across-more-than-70-countries-and-employs-around-87000-people--it-is-a-universal-bank-with-operations-in-consumer-corporate-and-institutional-banking-and-treasury-services--despite-its-uk-base-it-does-not-conduct-retail-banking-in-the-uk-and-around-90-of-its-profits-come-from-asia-africa-and-the-middle-east-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/standard-charter.png
+  humanURL: https://developer.sc.com
+  baseURL: https://developer.sc.com//
+  tags: Financial Services, UK Banks, General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactions-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactions-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactiontransactionid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactiontransactionid-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-openapi.md
+- name: Standard Chartered
+  x-api-slug: standard-chartered
+  description: standard-chartered-plc-is-a-british-multinational-banking-and-financial-services-company-headquartered-in-london-england--it-operates-a-network-of-more-than-1200-branches-and-outlets-including-subsidiaries-associates-and-joint-ventures-across-more-than-70-countries-and-employs-around-87000-people--it-is-a-universal-bank-with-operations-in-consumer-corporate-and-institutional-banking-and-treasury-services--despite-its-uk-base-it-does-not-conduct-retail-banking-in-the-uk-and-around-90-of-its-profits-come-from-asia-africa-and-the-middle-east-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/standard-charter.png
+  humanURL: https://developer.sc.com
+  baseURL: https://developer.sc.com//
+  tags: Financial Services, UK Banks, General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactions-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactions-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactiontransactionid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactiontransactionid-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-openapi.md
+- name: Standard Chartered
+  x-api-slug: standard-chartered
+  description: standard-chartered-plc-is-a-british-multinational-banking-and-financial-services-company-headquartered-in-london-england--it-operates-a-network-of-more-than-1200-branches-and-outlets-including-subsidiaries-associates-and-joint-ventures-across-more-than-70-countries-and-employs-around-87000-people--it-is-a-universal-bank-with-operations-in-consumer-corporate-and-institutional-banking-and-treasury-services--despite-its-uk-base-it-does-not-conduct-retail-banking-in-the-uk-and-around-90-of-its-profits-come-from-asia-africa-and-the-middle-east-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/standard-charter.png
+  humanURL: https://developer.sc.com
+  baseURL: https://developer.sc.com//
+  tags: Financial Services, UK Banks, General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactions-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactions-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactiontransactionid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactiontransactionid-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactions-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactions-get-openapi.md
+- name: Standard Chartered
+  x-api-slug: standard-chartered
+  description: standard-chartered-plc-is-a-british-multinational-banking-and-financial-services-company-headquartered-in-london-england--it-operates-a-network-of-more-than-1200-branches-and-outlets-including-subsidiaries-associates-and-joint-ventures-across-more-than-70-countries-and-employs-around-87000-people--it-is-a-universal-bank-with-operations-in-consumer-corporate-and-institutional-banking-and-treasury-services--despite-its-uk-base-it-does-not-conduct-retail-banking-in-the-uk-and-around-90-of-its-profits-come-from-asia-africa-and-the-middle-east-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/standard-charter.png
+  humanURL: https://developer.sc.com
+  baseURL: https://developer.sc.com//
+  tags: Financial Services, UK Banks, General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactions-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactions-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactiontransactionid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactiontransactionid-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidaccount-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsaccountidviewidtransactionrequesttypes-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbaccountsviewidaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultbranches-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcountrycountry-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1banksscbreferencedefaultholidaycalendarcurrencycurrency-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridprofile-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridlimits-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactions-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactions-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactiontransactionid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/cibservices2bapiv1tradecountrycodecustomeridtransactiontransactionid-get-openapi.md
+- name: Standard Chartered
+  x-api-slug: standard-chartered
   description: Standard Chartered PLC is a British multinational banking and financial
     services company headquartered in London, England. It operates a network of more
     than 1,200 branches and outlets (including subsidiaries, associates and joint
@@ -169,6 +1037,8 @@ apis:
 x-common:
 - type: x-accessibility
   url: https://developer.sc.com/cib/#/accessibility
+- type: x-api-gallery
+  url: http://stack.exchange.api.gallery.streamdata.io
 - type: x-api-stack
   url: http://standard.chartered.stack.network
 - type: x-applications

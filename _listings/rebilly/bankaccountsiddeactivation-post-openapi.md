@@ -68,6 +68,24 @@ paths:
       - Retrieve
       - Bank
       - Account
+    put:
+      summary: Create a BankAccount with predefined ID
+      description: Create or update a BankAccount with predefined identifier string
+      operationId: bank_accounts.id.put
+      x-api-path-slug: bankaccountsid-put
+      parameters:
+      - in: body
+        name: body
+        description: BankAccount resource
+        schema:
+          $ref: '#/definitions/holder'
+      responses:
+        200:
+          description: OK
+      tags:
+      - BankAccount
+      - Predefined
+      - ID
   /bank-accounts/{id}/deactivation:
     post:
       summary: Deactivate a Bank Account

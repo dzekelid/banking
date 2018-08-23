@@ -932,6 +932,57 @@ paths:
       - Accounts
       - ""
       - Withdrawals
+  /withdrawals/{id}:
+    get:
+      summary: Get withdrawal by id
+      description: Returns the withdrawal with the specific id
+      operationId: returns-the-withdrawal-with-the-specific-id
+      x-api-path-slug: withdrawalsid-get
+      parameters:
+      - in: path
+        name: id
+        description: ID of the withdrawal that is being fetched
+      responses:
+        200:
+          description: OK
+      tags:
+      - Banks
+      - Withdrawals
+    put:
+      summary: Update a specific existing withdrawal
+      description: Updates the specific withdrawal
+      operationId: updates-the-specific-withdrawal
+      x-api-path-slug: withdrawalsid-put
+      parameters:
+      - in: body
+        name: body
+        description: withdrawal to be updated
+        schema:
+          $ref: '#/definitions/holder'
+      - in: path
+        name: id
+        description: ID of the withdrawal that is being updated
+      responses:
+        200:
+          description: OK
+      tags:
+      - Banks
+      - Withdrawals
+    delete:
+      summary: Delete a specific existing withdrawal
+      description: Deletes the specific withdrawal
+      operationId: deletes-the-specific-withdrawal
+      x-api-path-slug: withdrawalsid-delete
+      parameters:
+      - in: path
+        name: id
+        description: ID of the withdrawal that is being deleted
+      responses:
+        200:
+          description: OK
+      tags:
+      - Banks
+      - Withdrawals
 x-streamrank:
   polling_total_time_average: 0
   polling_size_download_average: 0

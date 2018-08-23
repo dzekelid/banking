@@ -36,6 +36,57 @@ paths:
       - Bank
       - AccountAccounting
       - System
+  /api/people/{id}/accounts:
+    get:
+      summary: Get the bank details for a person
+      description: Get the bank details for a person.
+      operationId: People_GetPersonsAccountsByid
+      x-api-path-slug: apipeopleidaccounts-get
+      parameters:
+      - in: path
+        name: id
+      - in: header
+        name: Rezi-Api-Version
+        description: Specifies which version of the API to call
+      responses:
+        200:
+          description: OK
+      tags:
+      - Bank
+      - Detailsa
+      - Person
+  /api/transfer/interaccount:
+    post:
+      summary: Transfer funds between bank accounts (also Deposit Cash/Cheques from
+        Cash Held)
+      description: Transfer funds between bank accounts (also deposit cash/cheques
+        from cash held).
+      operationId: Transfer_ProcessIatByiatDataContract
+      x-api-path-slug: apitransferinteraccount-post
+      parameters:
+      - in: body
+        name: iatDataContract
+        schema:
+          $ref: '#/definitions/holder'
+      - in: header
+        name: Rezi-Api-Version
+        description: Specifies which version of the API to call
+      responses:
+        200:
+          description: OK
+      tags:
+      - Transfer
+      - Funds
+      - Between
+      - Bank
+      - Accounts
+      - (also
+      - Deposit
+      - Cash
+      - Cheques
+      - From
+      - Cash
+      - Held)
 x-streamrank:
   polling_total_time_average: 0
   polling_size_download_average: 0

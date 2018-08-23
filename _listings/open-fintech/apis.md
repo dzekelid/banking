@@ -11,8 +11,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "0"
 tags: Banking
-created: "2018-08-19"
-modified: "2018-08-19"
+created: "2018-08-23"
+modified: "2018-08-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/open-fintech/apis.md
 specificationVersion: "0.14"
 apis:
@@ -22,7 +22,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/open-fintech-io.png
   humanURL: http://openfintech.io
   baseURL: https://api.openfintech.io//v1/
-  tags: API Provider, Banking, Currencies, Payments, Profiles, General Data API, Service
+  tags: API Provider, Banking, Currencies, Payments, Profiles, General Data, Service
     API
   properties:
   - type: x-postman-collection
@@ -35,9 +35,55 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/open-fintech-io.png
   humanURL: http://openfintech.io
   baseURL: https://api.openfintech.io//v1/
-  tags: API Provider, Banking, Currencies, Payments, Profiles, General Data API, Service
+  tags: API Provider, Banking, Currencies, Payments, Profiles, General Data, Service
     API
   properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/open-fintech/banks-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/open-fintech/banks-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/open-fintech/banksid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/open-fintech/banksid-get-openapi.md
+- name: Open FinTech
+  x-api-slug: open-fintech
+  description: openfintech-io-is-an-open-database-that-comprises-of-standardized-primary-data-for-fintech-industry--it-contains-such-information-as-geolocation-data-countries-cities-regions-organizations-currencies-national-digital-virtual-crypto-banks-digital-exchangers-payment-providers-psp-payment-methods-etc-it-is-created-for-communication-of-crossintegrated-microservices-on-one-language--this-is-achieved-through-standardization-of-entity-identifiers-that-are-used-to-exchange-information-among-different-services-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/open-fintech-io.png
+  humanURL: http://openfintech.io
+  baseURL: https://api.openfintech.io//v1/
+  tags: API Provider, Banking, Currencies, Payments, Profiles, General Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/open-fintech/banks-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/open-fintech/banks-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/open-fintech/banksid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/open-fintech/banksid-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/open-fintech/banks-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/open-fintech/banks-get-openapi.md
+- name: Open FinTech
+  x-api-slug: open-fintech
+  description: openfintech-io-is-an-open-database-that-comprises-of-standardized-primary-data-for-fintech-industry--it-contains-such-information-as-geolocation-data-countries-cities-regions-organizations-currencies-national-digital-virtual-crypto-banks-digital-exchangers-payment-providers-psp-payment-methods-etc-it-is-created-for-communication-of-crossintegrated-microservices-on-one-language--this-is-achieved-through-standardization-of-entity-identifiers-that-are-used-to-exchange-information-among-different-services-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/open-fintech-io.png
+  humanURL: http://openfintech.io
+  baseURL: https://api.openfintech.io//v1/
+  tags: API Provider, Banking, Currencies, Payments, Profiles, General Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/open-fintech/banks-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/open-fintech/banks-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/open-fintech/banksid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/open-fintech/banksid-get-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/open-fintech/banks-get-postman.md
   - type: x-openapi-spec
@@ -62,6 +108,8 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/open-fintech/openapi.md
 x-common:
+- type: x-api-gallery
+  url: http://open.bank.project.api.gallery.streamdata.io
 - type: x-api-stack
   url: http://open.fintech.stack.network
 - type: x-developer

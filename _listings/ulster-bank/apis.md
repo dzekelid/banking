@@ -13,11 +13,311 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "8"
 x-alexaRank: "0"
 tags: Banking
-created: "2018-08-19"
-modified: "2018-08-19"
+created: "2018-08-23"
+modified: "2018-08-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/apis.md
 specificationVersion: "0.14"
 apis:
+- name: Ulster Bank
+  x-api-slug: ulster-bank
+  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapis-io-apis-for-ulster-bank-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.png
+  humanURL: https://digital.ulsterbank.co.uk/
+  baseURL: https://openapi.ulsterbank.co.uk/open-banking/v2.1/
+  tags: UK Banks, ATMs, General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-openapi.md
+- name: Ulster Bank
+  x-api-slug: ulster-bank
+  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapis-io-apis-for-ulster-bank-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.png
+  humanURL: https://digital.ulsterbank.co.uk/
+  baseURL: https://openapi.ulsterbank.co.uk/open-banking/v2.1/
+  tags: UK Banks, ATMs, General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/branches-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/branches-get-openapi.md
+- name: Ulster Bank
+  x-api-slug: ulster-bank
+  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapis-io-apis-for-ulster-bank-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.png
+  humanURL: https://digital.ulsterbank.co.uk/
+  baseURL: https://openapi.ulsterbank.co.uk/open-banking/v2.1/
+  tags: UK Banks, ATMs, General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/branches-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/branches-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/personalcurrentaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/personalcurrentaccounts-get-openapi.md
+- name: Ulster Bank
+  x-api-slug: ulster-bank
+  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapis-io-apis-for-ulster-bank-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.png
+  humanURL: https://digital.ulsterbank.co.uk/
+  baseURL: https://openapi.ulsterbank.co.uk/open-banking/v2.1/
+  tags: UK Banks, ATMs, General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/branches-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/branches-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/personalcurrentaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/personalcurrentaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/businesscurrentaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/businesscurrentaccounts-get-openapi.md
+- name: Ulster Bank
+  x-api-slug: ulster-bank
+  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapis-io-apis-for-ulster-bank-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.png
+  humanURL: https://digital.ulsterbank.co.uk/
+  baseURL: https://openapi.ulsterbank.co.uk/open-banking/v2.1/
+  tags: UK Banks, ATMs, General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/branches-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/branches-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/personalcurrentaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/personalcurrentaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/businesscurrentaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/businesscurrentaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/unsecuredsmeloans-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/unsecuredsmeloans-get-openapi.md
+- name: Ulster Bank
+  x-api-slug: ulster-bank
+  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapis-io-apis-for-ulster-bank-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.png
+  humanURL: https://digital.ulsterbank.co.uk/
+  baseURL: https://openapi.ulsterbank.co.uk/open-banking/v2.1/
+  tags: UK Banks, ATMs, General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/branches-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/branches-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/personalcurrentaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/personalcurrentaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/businesscurrentaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/businesscurrentaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/unsecuredsmeloans-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/unsecuredsmeloans-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-openapi.md
+- name: Ulster Bank
+  x-api-slug: ulster-bank
+  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapis-io-apis-for-ulster-bank-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.png
+  humanURL: https://digital.ulsterbank.co.uk/
+  baseURL: https://openapi.ulsterbank.co.uk/open-banking/v2.1/
+  tags: UK Banks, ATMs, General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/branches-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/branches-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/personalcurrentaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/personalcurrentaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/businesscurrentaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/businesscurrentaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/unsecuredsmeloans-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/unsecuredsmeloans-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/branches-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/branches-get-openapi.md
+- name: Ulster Bank
+  x-api-slug: ulster-bank
+  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapis-io-apis-for-ulster-bank-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.png
+  humanURL: https://digital.ulsterbank.co.uk/
+  baseURL: https://openapi.ulsterbank.co.uk/open-banking/v2.1/
+  tags: UK Banks, ATMs, General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/branches-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/branches-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/personalcurrentaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/personalcurrentaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/businesscurrentaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/businesscurrentaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/unsecuredsmeloans-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/unsecuredsmeloans-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/branches-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/branches-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/personalcurrentaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/personalcurrentaccounts-get-openapi.md
+- name: Ulster Bank
+  x-api-slug: ulster-bank
+  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapis-io-apis-for-ulster-bank-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.png
+  humanURL: https://digital.ulsterbank.co.uk/
+  baseURL: https://openapi.ulsterbank.co.uk/open-banking/v2.1/
+  tags: UK Banks, ATMs, General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/branches-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/branches-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/personalcurrentaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/personalcurrentaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/businesscurrentaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/businesscurrentaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/unsecuredsmeloans-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/unsecuredsmeloans-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/branches-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/branches-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/personalcurrentaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/personalcurrentaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/businesscurrentaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/businesscurrentaccounts-get-openapi.md
+- name: Ulster Bank
+  x-api-slug: ulster-bank
+  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapis-io-apis-for-ulster-bank-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.png
+  humanURL: https://digital.ulsterbank.co.uk/
+  baseURL: https://openapi.ulsterbank.co.uk/open-banking/v2.1/
+  tags: UK Banks, ATMs, General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/branches-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/branches-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/personalcurrentaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/personalcurrentaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/businesscurrentaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/businesscurrentaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/unsecuredsmeloans-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/unsecuredsmeloans-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/branches-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/branches-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/personalcurrentaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/personalcurrentaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/businesscurrentaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/businesscurrentaccounts-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/unsecuredsmeloans-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/unsecuredsmeloans-get-openapi.md
 - name: Ulster Bank
   x-api-slug: ulster-bank
   description: Ulster Bank is a large commercial bank, and one of the traditional
@@ -36,6 +336,8 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/openapi.md
 x-common:
+- type: x-api-gallery
+  url: http://uk.national.archives.api.gallery.streamdata.io
 - type: x-api-stack
   url: http://ulster.bank.stack.network
 - type: x-twitter

@@ -11,8 +11,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28107-dans
 x-kinRank: "7"
 x-alexaRank: "55813"
 tags: Banking
-created: "2018-08-19"
-modified: "2018-08-19"
+created: "2018-08-23"
+modified: "2018-08-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/danske-bank/apis.md
 specificationVersion: "0.14"
 apis:
@@ -32,6 +32,8 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/danske-bank/openapi.md
 x-common:
+- type: x-api-gallery
+  url: http://crypto.compare.api.gallery.streamdata.io
 - type: x-api-stack
   url: http://danske.bank.stack.network
 - type: x-crunchbase

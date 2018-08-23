@@ -8,8 +8,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "7167103"
 tags: Banking
-created: "2018-08-19"
-modified: "2018-08-19"
+created: "2018-08-23"
+modified: "2018-08-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/yapily/apis.md
 specificationVersion: "0.14"
 apis:
@@ -26,6 +26,8 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/yapily/openapi.md
 x-common:
+- type: x-api-gallery
+  url: http://yahoo.api.gallery.streamdata.io
 - type: x-api-stack
   url: http://yapily.stack.network
 - type: x-authentication

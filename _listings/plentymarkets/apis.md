@@ -11,8 +11,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: ""
 tags: Banking
-created: "2018-08-19"
-modified: "2018-08-19"
+created: "2018-08-23"
+modified: "2018-08-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/apis.md
 specificationVersion: "0.14"
 apis:
@@ -22,7 +22,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
   humanURL: http://www.plentymarkets.co.uk
   baseURL: https://example.com//
-  tags: ERP, Service API, Relative Data API
+  tags: ERP, Service API, Relative Data
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbanks-post-openapi.md
@@ -32,7 +32,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
   humanURL: http://www.plentymarkets.co.uk
   baseURL: https://example.com//
-  tags: ERP, Service API, Relative Data API
+  tags: ERP, Service API, Relative Data
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbanks-post-openapi.md
@@ -44,7 +44,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
   humanURL: http://www.plentymarkets.co.uk
   baseURL: https://example.com//
-  tags: ERP, Service API, Relative Data API
+  tags: ERP, Service API, Relative Data
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbanks-post-openapi.md
@@ -58,7 +58,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
   humanURL: http://www.plentymarkets.co.uk
   baseURL: https://example.com//
-  tags: ERP, Service API, Relative Data API
+  tags: ERP, Service API, Relative Data
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbanks-post-openapi.md
@@ -74,8 +74,128 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
   humanURL: http://www.plentymarkets.co.uk
   baseURL: https://example.com//
-  tags: ERP, Service API, Relative Data API
+  tags: ERP, Service API, Relative Data
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbanks-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbankscontactbankid-delete-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbankscontactbankid-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbankscontactbankid-put-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactscontactidbanks-get-openapi.md
+- name: Plentymarkets
+  x-api-slug: plentymarkets
+  description: the-plentymarkets-rest-api-expands-the-functionality-of-the-plentymarkets-cms-and-allows-access-to-resources-i-e--data-records-via-unique-uri-paths
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbanks-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbankscontactbankid-delete-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbankscontactbankid-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbankscontactbankid-put-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactscontactidbanks-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbanks-post-openapi.md
+- name: Plentymarkets
+  x-api-slug: plentymarkets
+  description: the-plentymarkets-rest-api-expands-the-functionality-of-the-plentymarkets-cms-and-allows-access-to-resources-i-e--data-records-via-unique-uri-paths
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbanks-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbankscontactbankid-delete-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbankscontactbankid-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbankscontactbankid-put-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactscontactidbanks-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbanks-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbankscontactbankid-delete-openapi.md
+- name: Plentymarkets
+  x-api-slug: plentymarkets
+  description: the-plentymarkets-rest-api-expands-the-functionality-of-the-plentymarkets-cms-and-allows-access-to-resources-i-e--data-records-via-unique-uri-paths
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbanks-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbankscontactbankid-delete-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbankscontactbankid-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbankscontactbankid-put-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactscontactidbanks-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbanks-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbankscontactbankid-delete-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbankscontactbankid-get-openapi.md
+- name: Plentymarkets
+  x-api-slug: plentymarkets
+  description: the-plentymarkets-rest-api-expands-the-functionality-of-the-plentymarkets-cms-and-allows-access-to-resources-i-e--data-records-via-unique-uri-paths
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbanks-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbankscontactbankid-delete-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbankscontactbankid-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbankscontactbankid-put-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactscontactidbanks-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbanks-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbankscontactbankid-delete-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbankscontactbankid-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbankscontactbankid-put-openapi.md
+- name: Plentymarkets
+  x-api-slug: plentymarkets
+  description: the-plentymarkets-rest-api-expands-the-functionality-of-the-plentymarkets-cms-and-allows-access-to-resources-i-e--data-records-via-unique-uri-paths
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png
+  humanURL: http://www.plentymarkets.co.uk
+  baseURL: https://example.com//
+  tags: ERP, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbanks-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbankscontactbankid-delete-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbankscontactbankid-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbankscontactbankid-put-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactscontactidbanks-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/restaccountscontactsbanks-post-openapi.md
   - type: x-openapi-spec
@@ -110,6 +230,8 @@ x-common:
   url: https://twitter.com/plentymarketsuk
 - type: x-website
   url: http://www.plentymarkets.co.uk
+- type: x-api-gallery
+  url: http://pivotal.tracker.api.gallery.streamdata.io
 - type: x-api-stack
   url: http://plentymarkets.stack.network
 - type: x-blog

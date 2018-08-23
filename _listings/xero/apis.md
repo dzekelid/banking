@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/279-xero.j
 x-kinRank: "8"
 x-alexaRank: "2158"
 tags: Banking
-created: "2018-08-19"
-modified: "2018-08-19"
+created: "2018-08-23"
+modified: "2018-08-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/apis.md
 specificationVersion: "0.14"
 apis:
@@ -19,7 +19,7 @@ apis:
   humanURL: http://www.xero.com/
   baseURL: https://api.xero.com//api.xro/2.0
   tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
-    Invoices, Relative Data API, Service API
+    Invoices, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
@@ -32,24 +32,7 @@ apis:
   humanURL: http://www.xero.com/
   baseURL: https://api.xero.com//api.xro/2.0
   tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
-    Invoices, Relative Data API, Service API
-  properties:
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-xrelatedmodel-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-xrelatedmodel-openapi.md
-- name: Clarity Accounting
-  x-api-slug: clarity-accounting
-  description: -introductionthe-xero-accounting-api-is-a-restful-web-service-and-uses-the-oauth-v1-0a-protocol-to-authenticate-3rd-party-applications--the-accounting-api-exposes-accounting-and-related-functions-of-the-main-xero-application-and-can-be-used-for-a-variety-of-purposes-such-as-creating-transactions-like-invoices-and-credit-notes-right-through-to-extracting-accounting-data-via-our-reports-endpoint-
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/279-xero.jpg
-  humanURL: http://www.xero.com/
-  baseURL: https://api.xero.com//api.xro/2.0
-  tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
-    Invoices, Relative Data API, Service API
+    Invoices, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
@@ -59,10 +42,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-xrelatedmodel-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-xrelatedmodel-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbanksummary-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbanksummary-get-openapi.md
 - name: Clarity Accounting
   x-api-slug: clarity-accounting
   description: -introductionthe-xero-accounting-api-is-a-restful-web-service-and-uses-the-oauth-v1-0a-protocol-to-authenticate-3rd-party-applications--the-accounting-api-exposes-accounting-and-related-functions-of-the-main-xero-application-and-can-be-used-for-a-variety-of-purposes-such-as-creating-transactions-like-invoices-and-credit-notes-right-through-to-extracting-accounting-data-via-our-reports-endpoint-
@@ -70,7 +49,7 @@ apis:
   humanURL: http://www.xero.com/
   baseURL: https://api.xero.com//api.xro/2.0
   tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
-    Invoices, Relative Data API, Service API
+    Invoices, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
@@ -84,10 +63,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbanksummary-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbanksummary-get-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbanksummary-xrelatedmodel-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbanksummary-xrelatedmodel-openapi.md
 - name: Clarity Accounting
   x-api-slug: clarity-accounting
   description: -introductionthe-xero-accounting-api-is-a-restful-web-service-and-uses-the-oauth-v1-0a-protocol-to-authenticate-3rd-party-applications--the-accounting-api-exposes-accounting-and-related-functions-of-the-main-xero-application-and-can-be-used-for-a-variety-of-purposes-such-as-creating-transactions-like-invoices-and-credit-notes-right-through-to-extracting-accounting-data-via-our-reports-endpoint-
@@ -95,7 +70,7 @@ apis:
   humanURL: http://www.xero.com/
   baseURL: https://api.xero.com//api.xro/2.0
   tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
-    Invoices, Relative Data API, Service API
+    Invoices, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
@@ -113,8 +88,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbanksummary-xrelatedmodel-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbanksummary-xrelatedmodel-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionid-get-openapi.md
 - name: Clarity Accounting
   x-api-slug: clarity-accounting
   description: -introductionthe-xero-accounting-api-is-a-restful-web-service-and-uses-the-oauth-v1-0a-protocol-to-authenticate-3rd-party-applications--the-accounting-api-exposes-accounting-and-related-functions-of-the-main-xero-application-and-can-be-used-for-a-variety-of-purposes-such-as-creating-transactions-like-invoices-and-credit-notes-right-through-to-extracting-accounting-data-via-our-reports-endpoint-
@@ -122,7 +95,7 @@ apis:
   humanURL: http://www.xero.com/
   baseURL: https://api.xero.com//api.xro/2.0
   tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
-    Invoices, Relative Data API, Service API
+    Invoices, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
@@ -142,8 +115,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbanksummary-xrelatedmodel-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionid-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionid-post-openapi.md
 - name: Clarity Accounting
   x-api-slug: clarity-accounting
   description: -introductionthe-xero-accounting-api-is-a-restful-web-service-and-uses-the-oauth-v1-0a-protocol-to-authenticate-3rd-party-applications--the-accounting-api-exposes-accounting-and-related-functions-of-the-main-xero-application-and-can-be-used-for-a-variety-of-purposes-such-as-creating-transactions-like-invoices-and-credit-notes-right-through-to-extracting-accounting-data-via-our-reports-endpoint-
@@ -151,7 +122,7 @@ apis:
   humanURL: http://www.xero.com/
   baseURL: https://api.xero.com//api.xro/2.0
   tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
-    Invoices, Relative Data API, Service API
+    Invoices, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
@@ -173,8 +144,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionid-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionid-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionid-xrelatedmodel-openapi.md
 - name: Clarity Accounting
   x-api-slug: clarity-accounting
   description: -introductionthe-xero-accounting-api-is-a-restful-web-service-and-uses-the-oauth-v1-0a-protocol-to-authenticate-3rd-party-applications--the-accounting-api-exposes-accounting-and-related-functions-of-the-main-xero-application-and-can-be-used-for-a-variety-of-purposes-such-as-creating-transactions-like-invoices-and-credit-notes-right-through-to-extracting-accounting-data-via-our-reports-endpoint-
@@ -182,7 +151,7 @@ apis:
   humanURL: http://www.xero.com/
   baseURL: https://api.xero.com//api.xro/2.0
   tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
-    Invoices, Relative Data API, Service API
+    Invoices, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
@@ -206,8 +175,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionid-post-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionid-xrelatedmodel-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionidattachments-get-openapi.md
 - name: Clarity Accounting
   x-api-slug: clarity-accounting
   description: -introductionthe-xero-accounting-api-is-a-restful-web-service-and-uses-the-oauth-v1-0a-protocol-to-authenticate-3rd-party-applications--the-accounting-api-exposes-accounting-and-related-functions-of-the-main-xero-application-and-can-be-used-for-a-variety-of-purposes-such-as-creating-transactions-like-invoices-and-credit-notes-right-through-to-extracting-accounting-data-via-our-reports-endpoint-
@@ -215,7 +182,7 @@ apis:
   humanURL: http://www.xero.com/
   baseURL: https://api.xero.com//api.xro/2.0
   tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
-    Invoices, Relative Data API, Service API
+    Invoices, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
@@ -241,8 +208,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionid-xrelatedmodel-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionidattachments-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionidattachmentsfilename-get-openapi.md
 - name: Clarity Accounting
   x-api-slug: clarity-accounting
   description: -introductionthe-xero-accounting-api-is-a-restful-web-service-and-uses-the-oauth-v1-0a-protocol-to-authenticate-3rd-party-applications--the-accounting-api-exposes-accounting-and-related-functions-of-the-main-xero-application-and-can-be-used-for-a-variety-of-purposes-such-as-creating-transactions-like-invoices-and-credit-notes-right-through-to-extracting-accounting-data-via-our-reports-endpoint-
@@ -250,7 +215,7 @@ apis:
   humanURL: http://www.xero.com/
   baseURL: https://api.xero.com//api.xro/2.0
   tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
-    Invoices, Relative Data API, Service API
+    Invoices, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
@@ -278,8 +243,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionidattachments-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionidattachmentsfilename-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionidattachmentsfilename-post-openapi.md
 - name: Clarity Accounting
   x-api-slug: clarity-accounting
   description: -introductionthe-xero-accounting-api-is-a-restful-web-service-and-uses-the-oauth-v1-0a-protocol-to-authenticate-3rd-party-applications--the-accounting-api-exposes-accounting-and-related-functions-of-the-main-xero-application-and-can-be-used-for-a-variety-of-purposes-such-as-creating-transactions-like-invoices-and-credit-notes-right-through-to-extracting-accounting-data-via-our-reports-endpoint-
@@ -287,7 +250,7 @@ apis:
   humanURL: http://www.xero.com/
   baseURL: https://api.xero.com//api.xro/2.0
   tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
-    Invoices, Relative Data API, Service API
+    Invoices, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
@@ -317,10 +280,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionidattachmentsfilename-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionidattachmentsfilename-post-openapi.md
-  - type: x-postman-collection
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactions-get-postman.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactions-get-openapi.md
 - name: Clarity Accounting
   x-api-slug: clarity-accounting
   description: -introductionthe-xero-accounting-api-is-a-restful-web-service-and-uses-the-oauth-v1-0a-protocol-to-authenticate-3rd-party-applications--the-accounting-api-exposes-accounting-and-related-functions-of-the-main-xero-application-and-can-be-used-for-a-variety-of-purposes-such-as-creating-transactions-like-invoices-and-credit-notes-right-through-to-extracting-accounting-data-via-our-reports-endpoint-
@@ -328,7 +287,7 @@ apis:
   humanURL: http://www.xero.com/
   baseURL: https://api.xero.com//api.xro/2.0
   tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
-    Invoices, Relative Data API, Service API
+    Invoices, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
@@ -362,8 +321,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactions-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactions-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactions-post-openapi.md
 - name: Clarity Accounting
   x-api-slug: clarity-accounting
   description: -introductionthe-xero-accounting-api-is-a-restful-web-service-and-uses-the-oauth-v1-0a-protocol-to-authenticate-3rd-party-applications--the-accounting-api-exposes-accounting-and-related-functions-of-the-main-xero-application-and-can-be-used-for-a-variety-of-purposes-such-as-creating-transactions-like-invoices-and-credit-notes-right-through-to-extracting-accounting-data-via-our-reports-endpoint-
@@ -371,7 +328,7 @@ apis:
   humanURL: http://www.xero.com/
   baseURL: https://api.xero.com//api.xro/2.0
   tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
-    Invoices, Relative Data API, Service API
+    Invoices, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
@@ -407,8 +364,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactions-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactions-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactions-put-openapi.md
 - name: Clarity Accounting
   x-api-slug: clarity-accounting
   description: -introductionthe-xero-accounting-api-is-a-restful-web-service-and-uses-the-oauth-v1-0a-protocol-to-authenticate-3rd-party-applications--the-accounting-api-exposes-accounting-and-related-functions-of-the-main-xero-application-and-can-be-used-for-a-variety-of-purposes-such-as-creating-transactions-like-invoices-and-credit-notes-right-through-to-extracting-accounting-data-via-our-reports-endpoint-
@@ -416,7 +371,7 @@ apis:
   humanURL: http://www.xero.com/
   baseURL: https://api.xero.com//api.xro/2.0
   tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
-    Invoices, Relative Data API, Service API
+    Invoices, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
@@ -454,8 +409,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactions-post-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactions-put-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactions-xrelatedmodel-openapi.md
 - name: Clarity Accounting
   x-api-slug: clarity-accounting
   description: -introductionthe-xero-accounting-api-is-a-restful-web-service-and-uses-the-oauth-v1-0a-protocol-to-authenticate-3rd-party-applications--the-accounting-api-exposes-accounting-and-related-functions-of-the-main-xero-application-and-can-be-used-for-a-variety-of-purposes-such-as-creating-transactions-like-invoices-and-credit-notes-right-through-to-extracting-accounting-data-via-our-reports-endpoint-
@@ -463,7 +416,7 @@ apis:
   humanURL: http://www.xero.com/
   baseURL: https://api.xero.com//api.xro/2.0
   tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
-    Invoices, Relative Data API, Service API
+    Invoices, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
@@ -503,8 +456,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactions-put-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactions-xrelatedmodel-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionid-get-openapi.md
 - name: Clarity Accounting
   x-api-slug: clarity-accounting
   description: -introductionthe-xero-accounting-api-is-a-restful-web-service-and-uses-the-oauth-v1-0a-protocol-to-authenticate-3rd-party-applications--the-accounting-api-exposes-accounting-and-related-functions-of-the-main-xero-application-and-can-be-used-for-a-variety-of-purposes-such-as-creating-transactions-like-invoices-and-credit-notes-right-through-to-extracting-accounting-data-via-our-reports-endpoint-
@@ -512,7 +463,7 @@ apis:
   humanURL: http://www.xero.com/
   baseURL: https://api.xero.com//api.xro/2.0
   tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
-    Invoices, Relative Data API, Service API
+    Invoices, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
@@ -554,8 +505,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactions-xrelatedmodel-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionid-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionid-post-openapi.md
 - name: Clarity Accounting
   x-api-slug: clarity-accounting
   description: -introductionthe-xero-accounting-api-is-a-restful-web-service-and-uses-the-oauth-v1-0a-protocol-to-authenticate-3rd-party-applications--the-accounting-api-exposes-accounting-and-related-functions-of-the-main-xero-application-and-can-be-used-for-a-variety-of-purposes-such-as-creating-transactions-like-invoices-and-credit-notes-right-through-to-extracting-accounting-data-via-our-reports-endpoint-
@@ -563,7 +512,7 @@ apis:
   humanURL: http://www.xero.com/
   baseURL: https://api.xero.com//api.xro/2.0
   tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
-    Invoices, Relative Data API, Service API
+    Invoices, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
@@ -607,8 +556,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionid-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionid-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionid-xrelatedmodel-openapi.md
 - name: Clarity Accounting
   x-api-slug: clarity-accounting
   description: -introductionthe-xero-accounting-api-is-a-restful-web-service-and-uses-the-oauth-v1-0a-protocol-to-authenticate-3rd-party-applications--the-accounting-api-exposes-accounting-and-related-functions-of-the-main-xero-application-and-can-be-used-for-a-variety-of-purposes-such-as-creating-transactions-like-invoices-and-credit-notes-right-through-to-extracting-accounting-data-via-our-reports-endpoint-
@@ -616,7 +563,7 @@ apis:
   humanURL: http://www.xero.com/
   baseURL: https://api.xero.com//api.xro/2.0
   tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
-    Invoices, Relative Data API, Service API
+    Invoices, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
@@ -662,8 +609,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionid-post-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionid-xrelatedmodel-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionidattachments-get-openapi.md
 - name: Clarity Accounting
   x-api-slug: clarity-accounting
   description: -introductionthe-xero-accounting-api-is-a-restful-web-service-and-uses-the-oauth-v1-0a-protocol-to-authenticate-3rd-party-applications--the-accounting-api-exposes-accounting-and-related-functions-of-the-main-xero-application-and-can-be-used-for-a-variety-of-purposes-such-as-creating-transactions-like-invoices-and-credit-notes-right-through-to-extracting-accounting-data-via-our-reports-endpoint-
@@ -671,7 +616,7 @@ apis:
   humanURL: http://www.xero.com/
   baseURL: https://api.xero.com//api.xro/2.0
   tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
-    Invoices, Relative Data API, Service API
+    Invoices, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
@@ -719,8 +664,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionid-xrelatedmodel-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionidattachments-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionidattachmentsfilename-get-openapi.md
 - name: Clarity Accounting
   x-api-slug: clarity-accounting
   description: -introductionthe-xero-accounting-api-is-a-restful-web-service-and-uses-the-oauth-v1-0a-protocol-to-authenticate-3rd-party-applications--the-accounting-api-exposes-accounting-and-related-functions-of-the-main-xero-application-and-can-be-used-for-a-variety-of-purposes-such-as-creating-transactions-like-invoices-and-credit-notes-right-through-to-extracting-accounting-data-via-our-reports-endpoint-
@@ -728,7 +671,7 @@ apis:
   humanURL: http://www.xero.com/
   baseURL: https://api.xero.com//api.xro/2.0
   tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
-    Invoices, Relative Data API, Service API
+    Invoices, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
@@ -778,8 +721,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionidattachments-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionidattachmentsfilename-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionidattachmentsfilename-post-openapi.md
 - name: Clarity Accounting
   x-api-slug: clarity-accounting
   description: -introductionthe-xero-accounting-api-is-a-restful-web-service-and-uses-the-oauth-v1-0a-protocol-to-authenticate-3rd-party-applications--the-accounting-api-exposes-accounting-and-related-functions-of-the-main-xero-application-and-can-be-used-for-a-variety-of-purposes-such-as-creating-transactions-like-invoices-and-credit-notes-right-through-to-extracting-accounting-data-via-our-reports-endpoint-
@@ -787,7 +728,7 @@ apis:
   humanURL: http://www.xero.com/
   baseURL: https://api.xero.com//api.xro/2.0
   tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
-    Invoices, Relative Data API, Service API
+    Invoices, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
@@ -839,8 +780,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionidattachmentsfilename-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionidattachmentsfilename-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfersbanktransferid-get-openapi.md
 - name: Clarity Accounting
   x-api-slug: clarity-accounting
   description: -introductionthe-xero-accounting-api-is-a-restful-web-service-and-uses-the-oauth-v1-0a-protocol-to-authenticate-3rd-party-applications--the-accounting-api-exposes-accounting-and-related-functions-of-the-main-xero-application-and-can-be-used-for-a-variety-of-purposes-such-as-creating-transactions-like-invoices-and-credit-notes-right-through-to-extracting-accounting-data-via-our-reports-endpoint-
@@ -848,7 +787,7 @@ apis:
   humanURL: http://www.xero.com/
   baseURL: https://api.xero.com//api.xro/2.0
   tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
-    Invoices, Relative Data API, Service API
+    Invoices, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
@@ -902,8 +841,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionidattachmentsfilename-post-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfersbanktransferid-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfersbanktransferid-xrelatedmodel-openapi.md
 - name: Clarity Accounting
   x-api-slug: clarity-accounting
   description: -introductionthe-xero-accounting-api-is-a-restful-web-service-and-uses-the-oauth-v1-0a-protocol-to-authenticate-3rd-party-applications--the-accounting-api-exposes-accounting-and-related-functions-of-the-main-xero-application-and-can-be-used-for-a-variety-of-purposes-such-as-creating-transactions-like-invoices-and-credit-notes-right-through-to-extracting-accounting-data-via-our-reports-endpoint-
@@ -911,7 +848,7 @@ apis:
   humanURL: http://www.xero.com/
   baseURL: https://api.xero.com//api.xro/2.0
   tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
-    Invoices, Relative Data API, Service API
+    Invoices, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
@@ -967,8 +904,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfersbanktransferid-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfersbanktransferid-xrelatedmodel-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfersbanktransferidattachmentsfilename-get-openapi.md
 - name: Clarity Accounting
   x-api-slug: clarity-accounting
   description: -introductionthe-xero-accounting-api-is-a-restful-web-service-and-uses-the-oauth-v1-0a-protocol-to-authenticate-3rd-party-applications--the-accounting-api-exposes-accounting-and-related-functions-of-the-main-xero-application-and-can-be-used-for-a-variety-of-purposes-such-as-creating-transactions-like-invoices-and-credit-notes-right-through-to-extracting-accounting-data-via-our-reports-endpoint-
@@ -976,7 +911,7 @@ apis:
   humanURL: http://www.xero.com/
   baseURL: https://api.xero.com//api.xro/2.0
   tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
-    Invoices, Relative Data API, Service API
+    Invoices, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
@@ -1034,8 +969,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfersbanktransferid-xrelatedmodel-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfersbanktransferidattachmentsfilename-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfersbanktransferidattachmentsfilename-post-openapi.md
 - name: Clarity Accounting
   x-api-slug: clarity-accounting
   description: -introductionthe-xero-accounting-api-is-a-restful-web-service-and-uses-the-oauth-v1-0a-protocol-to-authenticate-3rd-party-applications--the-accounting-api-exposes-accounting-and-related-functions-of-the-main-xero-application-and-can-be-used-for-a-variety-of-purposes-such-as-creating-transactions-like-invoices-and-credit-notes-right-through-to-extracting-accounting-data-via-our-reports-endpoint-
@@ -1043,7 +976,7 @@ apis:
   humanURL: http://www.xero.com/
   baseURL: https://api.xero.com//api.xro/2.0
   tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
-    Invoices, Relative Data API, Service API
+    Invoices, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
@@ -1103,8 +1036,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfersbanktransferidattachmentsfilename-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfersbanktransferidattachmentsfilename-post-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfers-get-openapi.md
 - name: Clarity Accounting
   x-api-slug: clarity-accounting
   description: -introductionthe-xero-accounting-api-is-a-restful-web-service-and-uses-the-oauth-v1-0a-protocol-to-authenticate-3rd-party-applications--the-accounting-api-exposes-accounting-and-related-functions-of-the-main-xero-application-and-can-be-used-for-a-variety-of-purposes-such-as-creating-transactions-like-invoices-and-credit-notes-right-through-to-extracting-accounting-data-via-our-reports-endpoint-
@@ -1112,7 +1043,7 @@ apis:
   humanURL: http://www.xero.com/
   baseURL: https://api.xero.com//api.xro/2.0
   tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
-    Invoices, Relative Data API, Service API
+    Invoices, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
@@ -1174,8 +1105,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfersbanktransferidattachmentsfilename-post-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfers-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfers-put-openapi.md
 - name: Clarity Accounting
   x-api-slug: clarity-accounting
   description: -introductionthe-xero-accounting-api-is-a-restful-web-service-and-uses-the-oauth-v1-0a-protocol-to-authenticate-3rd-party-applications--the-accounting-api-exposes-accounting-and-related-functions-of-the-main-xero-application-and-can-be-used-for-a-variety-of-purposes-such-as-creating-transactions-like-invoices-and-credit-notes-right-through-to-extracting-accounting-data-via-our-reports-endpoint-
@@ -1183,7 +1112,7 @@ apis:
   humanURL: http://www.xero.com/
   baseURL: https://api.xero.com//api.xro/2.0
   tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
-    Invoices, Relative Data API, Service API
+    Invoices, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
@@ -1247,8 +1176,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfers-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfers-put-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfers-xrelatedmodel-openapi.md
 - name: Clarity Accounting
   x-api-slug: clarity-accounting
   description: -introductionthe-xero-accounting-api-is-a-restful-web-service-and-uses-the-oauth-v1-0a-protocol-to-authenticate-3rd-party-applications--the-accounting-api-exposes-accounting-and-related-functions-of-the-main-xero-application-and-can-be-used-for-a-variety-of-purposes-such-as-creating-transactions-like-invoices-and-credit-notes-right-through-to-extracting-accounting-data-via-our-reports-endpoint-
@@ -1256,7 +1183,7 @@ apis:
   humanURL: http://www.xero.com/
   baseURL: https://api.xero.com//api.xro/2.0
   tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
-    Invoices, Relative Data API, Service API
+    Invoices, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
@@ -1322,8 +1249,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfers-put-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfers-xrelatedmodel-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfersbanktransferid-get-openapi.md
 - name: Clarity Accounting
   x-api-slug: clarity-accounting
   description: -introductionthe-xero-accounting-api-is-a-restful-web-service-and-uses-the-oauth-v1-0a-protocol-to-authenticate-3rd-party-applications--the-accounting-api-exposes-accounting-and-related-functions-of-the-main-xero-application-and-can-be-used-for-a-variety-of-purposes-such-as-creating-transactions-like-invoices-and-credit-notes-right-through-to-extracting-accounting-data-via-our-reports-endpoint-
@@ -1331,7 +1256,7 @@ apis:
   humanURL: http://www.xero.com/
   baseURL: https://api.xero.com//api.xro/2.0
   tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
-    Invoices, Relative Data API, Service API
+    Invoices, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
@@ -1399,8 +1324,6 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfers-xrelatedmodel-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfersbanktransferid-get-openapi.md
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfersbanktransferid-xrelatedmodel-openapi.md
 - name: Clarity Accounting
   x-api-slug: clarity-accounting
   description: -introductionthe-xero-accounting-api-is-a-restful-web-service-and-uses-the-oauth-v1-0a-protocol-to-authenticate-3rd-party-applications--the-accounting-api-exposes-accounting-and-related-functions-of-the-main-xero-application-and-can-be-used-for-a-variety-of-purposes-such-as-creating-transactions-like-invoices-and-credit-notes-right-through-to-extracting-accounting-data-via-our-reports-endpoint-
@@ -1408,7 +1331,7 @@ apis:
   humanURL: http://www.xero.com/
   baseURL: https://api.xero.com//api.xro/2.0
   tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
-    Invoices, Relative Data API, Service API
+    Invoices, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
@@ -1478,6 +1401,83 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfersbanktransferid-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfersbanktransferid-xrelatedmodel-openapi.md
+- name: Clarity Accounting
+  x-api-slug: clarity-accounting
+  description: -introductionthe-xero-accounting-api-is-a-restful-web-service-and-uses-the-oauth-v1-0a-protocol-to-authenticate-3rd-party-applications--the-accounting-api-exposes-accounting-and-related-functions-of-the-main-xero-application-and-can-be-used-for-a-variety-of-purposes-such-as-creating-transactions-like-invoices-and-credit-notes-right-through-to-extracting-accounting-data-via-our-reports-endpoint-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/279-xero.jpg
+  humanURL: http://www.xero.com/
+  baseURL: https://api.xero.com//api.xro/2.0
+  tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
+    Invoices, Relative Data, Service API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-xrelatedmodel-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-xrelatedmodel-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbanksummary-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbanksummary-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbanksummary-xrelatedmodel-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbanksummary-xrelatedmodel-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionid-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionid-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionid-xrelatedmodel-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionidattachments-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionidattachmentsfilename-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionidattachmentsfilename-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactions-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactions-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactions-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactions-put-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactions-xrelatedmodel-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionid-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionid-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionid-xrelatedmodel-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionidattachments-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionidattachmentsfilename-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransactionsbanktransactionidattachmentsfilename-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfersbanktransferid-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfersbanktransferid-xrelatedmodel-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfersbanktransferidattachmentsfilename-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfersbanktransferidattachmentsfilename-post-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfers-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfers-put-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfers-xrelatedmodel-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfersbanktransferid-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfersbanktransferid-xrelatedmodel-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/banktransfersbanktransferidattachmentsfilename-get-openapi.md
 - name: Clarity Accounting
@@ -1487,7 +1487,7 @@ apis:
   humanURL: http://www.xero.com/
   baseURL: https://api.xero.com//api.xro/2.0
   tags: Finance, Accounting, Finance, Accounting, Stack Network, SaaS, Technology,
-    Invoices, Relative Data API, Service API
+    Invoices, Relative Data, Service API
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/reportsbankstatement-get-postman.md
@@ -1586,6 +1586,8 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/openapi.md
 x-common:
+- type: x-api-gallery
+  url: http://wordnik.api.gallery.streamdata.io
 - type: x-api-stack
   url: http://xero.stack.network
 - type: x-base

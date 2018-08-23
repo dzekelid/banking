@@ -43,6 +43,20 @@ paths:
           description: OK
       tags:
       - Banks
+  /banks/{id}:
+    get:
+      summary: Bank by ID
+      description: Returns bank with specific ID.
+      operationId: banks.id.get
+      x-api-path-slug: banksid-get
+      parameters:
+      - in: query
+        name: No Name
+      responses:
+        200:
+          description: OK
+      tags:
+      - Banks
 x-streamrank:
   polling_total_time_average: 0
   polling_size_download_average: 0

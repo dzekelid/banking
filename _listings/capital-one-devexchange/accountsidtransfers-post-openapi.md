@@ -837,6 +837,152 @@ paths:
       - Accounts
       - ""
       - Transfers
+  /transfers/{transferId}:
+    get:
+      summary: Get transfer by id
+      description: Returns the transfer with the specific id
+      operationId: returns-the-transfer-with-the-specific-id
+      x-api-path-slug: transferstransferid-get
+      parameters:
+      - in: path
+        name: transferId
+        description: ID of the transfer that is being fetched
+      responses:
+        200:
+          description: OK
+      tags:
+      - Banks
+      - Transfers
+      - Transfer
+    put:
+      summary: Update a specific existing transfer
+      description: Updates the specific transfer
+      operationId: updates-the-specific-transfer
+      x-api-path-slug: transferstransferid-put
+      parameters:
+      - in: body
+        name: body
+        description: Transfer to be updated
+        schema:
+          $ref: '#/definitions/holder'
+      - in: path
+        name: transferId
+        description: ID of the transfer that is being updated
+      responses:
+        200:
+          description: OK
+      tags:
+      - Banks
+      - Transfers
+      - Transfer
+    delete:
+      summary: Delete a specific existing transfer
+      description: Deletes the specific transfer
+      operationId: deletes-the-specific-transfer
+      x-api-path-slug: transferstransferid-delete
+      parameters:
+      - in: path
+        name: transferId
+        description: ID of the transfer that is being deleted
+      responses:
+        200:
+          description: OK
+      tags:
+      - Banks
+      - Transfers
+      - Transfer
+  /accounts/{id}/withdrawals:
+    get:
+      summary: Get all withdrawals
+      description: Returns the withdrawals that you are involved in.
+      operationId: returns-the-withdrawals-that-you-are-involved-in
+      x-api-path-slug: accountsidwithdrawals-get
+      parameters:
+      - in: path
+        name: id
+        description: ID of account associated with the withdrawal
+      responses:
+        200:
+          description: OK
+      tags:
+      - Banks
+      - Accounts
+      - ""
+      - Withdrawals
+    post:
+      summary: Create a withdrawal
+      description: Creates a withdrawal where the account with the ID specified is
+        debitted.
+      operationId: creates-a-withdrawal-where-the-account-with-the-id-specified-is-debitted
+      x-api-path-slug: accountsidwithdrawals-post
+      parameters:
+      - in: body
+        name: body
+        description: Withdrawal to be created
+        schema:
+          $ref: '#/definitions/holder'
+      - in: path
+        name: id
+        description: ID of account receiver of withdrawal
+      responses:
+        200:
+          description: OK
+      tags:
+      - Banks
+      - Accounts
+      - ""
+      - Withdrawals
+  /withdrawals/{id}:
+    get:
+      summary: Get withdrawal by id
+      description: Returns the withdrawal with the specific id
+      operationId: returns-the-withdrawal-with-the-specific-id
+      x-api-path-slug: withdrawalsid-get
+      parameters:
+      - in: path
+        name: id
+        description: ID of the withdrawal that is being fetched
+      responses:
+        200:
+          description: OK
+      tags:
+      - Banks
+      - Withdrawals
+    put:
+      summary: Update a specific existing withdrawal
+      description: Updates the specific withdrawal
+      operationId: updates-the-specific-withdrawal
+      x-api-path-slug: withdrawalsid-put
+      parameters:
+      - in: body
+        name: body
+        description: withdrawal to be updated
+        schema:
+          $ref: '#/definitions/holder'
+      - in: path
+        name: id
+        description: ID of the withdrawal that is being updated
+      responses:
+        200:
+          description: OK
+      tags:
+      - Banks
+      - Withdrawals
+    delete:
+      summary: Delete a specific existing withdrawal
+      description: Deletes the specific withdrawal
+      operationId: deletes-the-specific-withdrawal
+      x-api-path-slug: withdrawalsid-delete
+      parameters:
+      - in: path
+        name: id
+        description: ID of the withdrawal that is being deleted
+      responses:
+        200:
+          description: OK
+      tags:
+      - Banks
+      - Withdrawals
 x-streamrank:
   polling_total_time_average: 0
   polling_size_download_average: 0

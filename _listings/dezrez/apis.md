@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-
 x-kinRank: "7"
 x-alexaRank: "385559"
 tags: Banking
-created: "2018-08-19"
-modified: "2018-08-19"
+created: "2018-08-23"
+modified: "2018-08-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apis.md
 specificationVersion: "0.14"
 apis:
@@ -18,7 +18,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
   humanURL: https://www.dezrez.com
   baseURL: https://api.dezrez.com//
-  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data API
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apiaccountingsystemsetprimaryaccount-post-postman.md
@@ -30,7 +30,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
   humanURL: https://www.dezrez.com
   baseURL: https://api.dezrez.com//
-  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data API
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apiaccountingsystemsetprimaryaccount-post-postman.md
@@ -46,7 +46,7 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
   humanURL: https://www.dezrez.com
   baseURL: https://api.dezrez.com//
-  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data API
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apiaccountingsystemsetprimaryaccount-post-postman.md
@@ -58,6 +58,114 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apipeopleidaccounts-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apitransferinteraccount-post-openapi.md
+- name: Dezrez
+  x-api-slug: dezrez
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apiaccountingsystemsetprimaryaccount-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apiaccountingsystemsetprimaryaccount-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apipeopleidaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apipeopleidaccounts-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apitransferinteraccount-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apiaccountingsystemsetprimaryaccount-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apiaccountingsystemsetprimaryaccount-post-openapi.md
+- name: Dezrez
+  x-api-slug: dezrez
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apiaccountingsystemsetprimaryaccount-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apiaccountingsystemsetprimaryaccount-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apipeopleidaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apipeopleidaccounts-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apitransferinteraccount-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apiaccountingsystemsetprimaryaccount-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apiaccountingsystemsetprimaryaccount-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apipeopleidaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apipeopleidaccounts-get-openapi.md
+- name: Dezrez
+  x-api-slug: dezrez
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apiaccountingsystemsetprimaryaccount-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apiaccountingsystemsetprimaryaccount-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apipeopleidaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apipeopleidaccounts-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apitransferinteraccount-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apiaccountingsystemsetprimaryaccount-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apiaccountingsystemsetprimaryaccount-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apipeopleidaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apipeopleidaccounts-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apitransferinteraccount-post-openapi.md
+- name: Dezrez
+  x-api-slug: dezrez
+  description: ""
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apiaccountingsystemsetprimaryaccount-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apiaccountingsystemsetprimaryaccount-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apipeopleidaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apipeopleidaccounts-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apitransferinteraccount-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apiaccountingsystemsetprimaryaccount-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apiaccountingsystemsetprimaryaccount-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apipeopleidaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apipeopleidaccounts-get-openapi.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apitransferinteraccount-post-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apiaccountingsystemsetprimaryaccount-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apiaccountingsystemsetprimaryaccount-post-openapi.md
 - name: Dezrez
   x-api-slug: dezrez
   description: Cloud based estate agent software , sales & letting agent software,
@@ -74,6 +182,8 @@ x-common:
   url: https://github.com/dezrez
 - type: x-openapi
   url: https://api.dezrez.com:443/swagger/docs/v1
+- type: x-api-gallery
+  url: http://datumbox.api.gallery.streamdata.io
 - type: x-api-stack
   url: http://dezrez.stack.network
 - type: x-documentation

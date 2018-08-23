@@ -11,8 +11,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "8"
 x-alexaRank: "0"
 tags: Banking
-created: "2018-08-19"
-modified: "2018-08-19"
+created: "2018-08-23"
+modified: "2018-08-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/allied-irish-bank/apis.md
 specificationVersion: "0.14"
 apis:
@@ -22,8 +22,8 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/allied-irish-bank.jpeg
   humanURL: https://aibgb.co.uk/
   baseURL: https:////open-banking/v1.1
-  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data API,
-    General Data API, Banking
+  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data, General
+    Data, Banking
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/allied-irish-bank/accountrequests-post-openapi.md
@@ -33,8 +33,8 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/allied-irish-bank.jpeg
   humanURL: https://aibgb.co.uk/
   baseURL: https:////open-banking/v1.1
-  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data API,
-    General Data API, Banking
+  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data, General
+    Data, Banking
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/allied-irish-bank/accountrequests-post-openapi.md
@@ -46,8 +46,8 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/allied-irish-bank.jpeg
   humanURL: https://aibgb.co.uk/
   baseURL: https:////open-banking/v1.1
-  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data API,
-    General Data API, Banking
+  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data, General
+    Data, Banking
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/allied-irish-bank/accountrequests-post-openapi.md
@@ -61,8 +61,8 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/allied-irish-bank.jpeg
   humanURL: https://aibgb.co.uk/
   baseURL: https:////open-banking/v1.1
-  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data API,
-    General Data API, Banking
+  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data, General
+    Data, Banking
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/allied-irish-bank/accountrequests-post-openapi.md
@@ -78,8 +78,8 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/allied-irish-bank.jpeg
   humanURL: https://aibgb.co.uk/
   baseURL: https:////open-banking/v1.1
-  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data API,
-    General Data API, Banking
+  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data, General
+    Data, Banking
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/allied-irish-bank/accountrequests-post-openapi.md
@@ -97,8 +97,8 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/allied-irish-bank.jpeg
   humanURL: https://aibgb.co.uk/
   baseURL: https:////open-banking/v1.1
-  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data API,
-    General Data API, Banking
+  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data, General
+    Data, Banking
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/allied-irish-bank/accountrequests-post-openapi.md
@@ -120,8 +120,8 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/allied-irish-bank.jpeg
   humanURL: https://aibgb.co.uk/
   baseURL: https:////open-banking/v1.1
-  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data API,
-    General Data API, Banking
+  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data, General
+    Data, Banking
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/allied-irish-bank/accountrequests-post-openapi.md
@@ -145,8 +145,8 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/allied-irish-bank.jpeg
   humanURL: https://aibgb.co.uk/
   baseURL: https:////open-banking/v1.1
-  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data API,
-    General Data API, Banking
+  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data, General
+    Data, Banking
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/allied-irish-bank/accountrequests-post-openapi.md
@@ -172,8 +172,8 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/allied-irish-bank.jpeg
   humanURL: https://aibgb.co.uk/
   baseURL: https:////open-banking/v1.1
-  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data API,
-    General Data API, Banking
+  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data, General
+    Data, Banking
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/allied-irish-bank/accountrequests-post-openapi.md
@@ -201,8 +201,8 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/allied-irish-bank.jpeg
   humanURL: https://aibgb.co.uk/
   baseURL: https:////open-banking/v1.1
-  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data API,
-    General Data API, Banking
+  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data, General
+    Data, Banking
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/allied-irish-bank/accountrequests-post-openapi.md
@@ -232,8 +232,8 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/allied-irish-bank.jpeg
   humanURL: https://aibgb.co.uk/
   baseURL: https:////open-banking/v1.1
-  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data API,
-    General Data API, Banking
+  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data, General
+    Data, Banking
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/allied-irish-bank/accountrequests-post-openapi.md
@@ -265,8 +265,8 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/allied-irish-bank.jpeg
   humanURL: https://aibgb.co.uk/
   baseURL: https:////open-banking/v1.1
-  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data API,
-    General Data API, Banking
+  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data, General
+    Data, Banking
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/allied-irish-bank/accountrequests-post-openapi.md
@@ -300,8 +300,8 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/allied-irish-bank.jpeg
   humanURL: https://aibgb.co.uk/
   baseURL: https:////open-banking/v1.1
-  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data API,
-    General Data API, Banking
+  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data, General
+    Data, Banking
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/allied-irish-bank/accountrequests-post-openapi.md
@@ -337,8 +337,8 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/allied-irish-bank.jpeg
   humanURL: https://aibgb.co.uk/
   baseURL: https:////open-banking/v1.1
-  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data API,
-    General Data API, Banking
+  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data, General
+    Data, Banking
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/allied-irish-bank/accountrequests-post-openapi.md
@@ -376,8 +376,8 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/allied-irish-bank.jpeg
   humanURL: https://aibgb.co.uk/
   baseURL: https:////open-banking/v1.1
-  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data API,
-    General Data API, Banking
+  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data, General
+    Data, Banking
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/allied-irish-bank/accountrequests-post-openapi.md
@@ -419,8 +419,8 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/allied-irish-bank.jpeg
   humanURL: https://aibgb.co.uk/
   baseURL: https:////open-banking/v1.1
-  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data API,
-    General Data API, Banking
+  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data, General
+    Data, Banking
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/allied-irish-bank/accountrequests-post-openapi.md
@@ -464,8 +464,8 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/allied-irish-bank.jpeg
   humanURL: https://aibgb.co.uk/
   baseURL: https:////open-banking/v1.1
-  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data API,
-    General Data API, Banking
+  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data, General
+    Data, Banking
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/allied-irish-bank/accountrequests-post-openapi.md
@@ -526,8 +526,8 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/allied-irish-bank.jpeg
   humanURL: https://aibgb.co.uk/
   baseURL: https:////open-banking/v1.1
-  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data API,
-    General Data API, Banking
+  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data, General
+    Data, Banking
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/allied-irish-bank/payments-post-openapi.md
@@ -537,8 +537,8 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/allied-irish-bank.jpeg
   humanURL: https://aibgb.co.uk/
   baseURL: https:////open-banking/v1.1
-  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data API,
-    General Data API, Banking
+  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data, General
+    Data, Banking
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/allied-irish-bank/payments-post-openapi.md
@@ -550,8 +550,8 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/allied-irish-bank.jpeg
   humanURL: https://aibgb.co.uk/
   baseURL: https:////open-banking/v1.1
-  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data API,
-    General Data API, Banking
+  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data, General
+    Data, Banking
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/allied-irish-bank/payments-post-openapi.md
@@ -565,8 +565,8 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/allied-irish-bank.jpeg
   humanURL: https://aibgb.co.uk/
   baseURL: https:////open-banking/v1.1
-  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data API,
-    General Data API, Banking
+  tags: UK Banks, Accounts, Loans, ATMs, API Provider, Profiles, Relative Data, General
+    Data, Banking
   properties:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/allied-irish-bank/payments-post-openapi.md
@@ -607,6 +607,8 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/allied-irish-bank/openapi.md
 x-common:
+- type: x-api-gallery
+  url: http://allied.irish.bank.api.gallery.streamdata.io
 - type: x-api-stack
   url: http://allied.irish.bank.stack.network
 - type: x-developer

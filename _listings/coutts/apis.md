@@ -14,8 +14,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "8"
 x-alexaRank: "0"
 tags: Banking
-created: "2018-08-19"
-modified: "2018-08-19"
+created: "2018-08-23"
+modified: "2018-08-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/coutts/apis.md
 specificationVersion: "0.14"
 apis:
@@ -25,9 +25,24 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Coutts-logo.jpg
   humanURL: https://www.coutts.com/
   baseURL: https://openapi.coutts.com/open-banking/v2.1/
-  tags: UK Banks, ATMs, API Provider, Profiles, General Data API, Relative Data API,
-    Banking
+  tags: UK Banks, ATMs, API Provider, Profiles, General Data, Relative Data, Banking
   properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/coutts/businesscurrentaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/coutts/businesscurrentaccounts-get-openapi.md
+- name: Coutts
+  x-api-slug: coutts
+  description: this-is-an-openapi-definition-for-the-standard-set-of-open-banking-httpopenbankingapis-io-apis-froms-coutts-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Coutts-logo.jpg
+  humanURL: https://www.coutts.com/
+  baseURL: https://openapi.coutts.com/open-banking/v2.1/
+  tags: UK Banks, ATMs, API Provider, Profiles, General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/coutts/businesscurrentaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/coutts/businesscurrentaccounts-get-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/coutts/businesscurrentaccounts-get-postman.md
   - type: x-openapi-spec
@@ -51,6 +66,8 @@ apis:
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/coutts/openapi.md
 x-common:
+- type: x-api-gallery
+  url: http://coord.api.gallery.streamdata.io
 - type: x-api-stack
   url: http://coutts.stack.network
 - type: x-website

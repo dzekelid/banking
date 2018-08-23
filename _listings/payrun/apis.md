@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28484-payr
 x-kinRank: "7"
 x-alexaRank: "0"
 tags: Banking
-created: "2018-08-19"
-modified: "2018-08-19"
+created: "2018-08-23"
+modified: "2018-08-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/payrun/apis.md
 specificationVersion: "0.14"
 apis:
@@ -19,7 +19,7 @@ apis:
   humanURL: http://www.payrun.io
   baseURL: https://api.test.payrun.io//
   tags: Payments, API Provider, Technology, SaaS, Profiles, Service API, Relative
-    Data API
+    Data, Relative StreamRank, StreamRank
   properties:
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/payrun/templatesbankaccount-get-postman.md
@@ -32,8 +32,54 @@ apis:
   humanURL: http://www.payrun.io
   baseURL: https://api.test.payrun.io//
   tags: Payments, API Provider, Technology, SaaS, Profiles, Service API, Relative
-    Data API
+    Data, Relative StreamRank, StreamRank
   properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/payrun/templatesbankaccount-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/payrun/templatesbankaccount-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/payrun/schemasbankaccount-xsd-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/payrun/schemasbankaccount-xsd-get-openapi.md
+- name: Pay Run.IO
+  x-api-slug: pay-run-io
+  description: open-scableable-transparent-payroll-api-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28484-payrun-io.jpg
+  humanURL: http://www.payrun.io
+  baseURL: https://api.test.payrun.io//
+  tags: Payments, API Provider, Technology, SaaS, Profiles, Service API, Relative
+    Data, Relative StreamRank, StreamRank
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/payrun/templatesbankaccount-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/payrun/templatesbankaccount-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/payrun/schemasbankaccount-xsd-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/payrun/schemasbankaccount-xsd-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/payrun/templatesbankaccount-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/payrun/templatesbankaccount-get-openapi.md
+- name: Pay Run.IO
+  x-api-slug: pay-run-io
+  description: open-scableable-transparent-payroll-api-
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28484-payrun-io.jpg
+  humanURL: http://www.payrun.io
+  baseURL: https://api.test.payrun.io//
+  tags: Payments, API Provider, Technology, SaaS, Profiles, Service API, Relative
+    Data, Relative StreamRank, StreamRank
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/payrun/templatesbankaccount-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/payrun/templatesbankaccount-get-openapi.md
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/payrun/schemasbankaccount-xsd-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/payrun/schemasbankaccount-xsd-get-openapi.md
   - type: x-postman-collection
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/payrun/templatesbankaccount-get-postman.md
   - type: x-openapi-spec
@@ -56,6 +102,8 @@ apis:
 x-common:
 - type: x-website
   url: http://www.payrun.io
+- type: x-api-gallery
+  url: http://paypal.api.gallery.streamdata.io
 - type: x-api-stack
   url: http://payrun.stack.network
 - type: x-documentation

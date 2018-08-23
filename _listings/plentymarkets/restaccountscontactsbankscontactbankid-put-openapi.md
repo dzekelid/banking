@@ -83,6 +83,23 @@ paths:
       tags:
       - Bank
       - Account
+  /rest/accounts/contacts/{contactId}/banks:
+    get:
+      summary: List bank accounts
+      description: Lists bank accounts of the contact. The ID of the contact must
+        be specified.
+      operationId: getRestAccountsContactsContactBanks
+      x-api-path-slug: restaccountscontactscontactidbanks-get
+      parameters:
+      - in: path
+        name: contactId
+      responses:
+        200:
+          description: OK
+      tags:
+      - List
+      - Bank
+      - Accounts
 x-streamrank:
   polling_total_time_average: 0
   polling_size_download_average: 0

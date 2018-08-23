@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "9"
 x-alexaRank: "383974"
 tags: Banking
-created: "2018-08-19"
-modified: "2018-08-19"
+created: "2018-08-23"
+modified: "2018-08-23"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xignite/apis.md
 specificationVersion: "0.14"
 apis:
@@ -341,8 +341,24 @@ apis:
     Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
     Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
     Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
-    SDIO Partner, Currencies, Publish, General Data API, Service API, Pedestal
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
   properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xignite/getfhlbankrates-get-openapi.md
+- name: Xignite Rates
+  x-api-slug: xignite-rates
+  description: provide-information-about-interest-rates-
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png
+  humanURL: http://www.xignite.com
+  baseURL: https://www.xignite.com/xRates.json/XigniteRates
+  tags: Trading, Government, Charts, Bond Markets, Energy, Jobs, JavaScript, Markets,
+    Realestate, Logos, Business, Economic, Markets, Articles, Business, Utility, Statistics,
+    Transcripts, Finance, Finance, Financial News API, Getting Started Example, Stack
+    Network, SaaS, Technology, Enterprise, Financial, Market Data, Financial Services,
+    SDIO Partner, Currencies, Publish, General Data, Service API, Pedestal
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xignite/getfhlbankrates-get-openapi.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xignite/getfhlbankrates-get-openapi.md
 - name: Xignite Rates
@@ -403,6 +419,8 @@ apis:
 x-common:
 - type: x--net-sdk
   url: http://xignite.github.io/DotNetSDK/
+- type: x-api-gallery
+  url: http://xibo.api.gallery.streamdata.io
 - type: x-api-stack
   url: http://xignite.stack.network
 - type: x-base

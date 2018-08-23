@@ -35,6 +35,25 @@ paths:
       - Bank
       - Account
       - Template
+  /Schemas/BankAccount.xsd:
+    get:
+      summary: Get the BankAccount schema
+      description: Returns the BankAccount schema object
+      operationId: GetBankAccountSchema
+      x-api-path-slug: schemasbankaccount-xsd-get
+      parameters:
+      - in: header
+        name: Api-Version
+        description: The version of the api to target
+      - in: header
+        name: Authorization
+        description: The OAuth 1 authorization header
+      responses:
+        200:
+          description: OK
+      tags:
+      - BankAccount
+      - Schema
 x-streamrank:
   polling_total_time_average: 0
   polling_size_download_average: 0
