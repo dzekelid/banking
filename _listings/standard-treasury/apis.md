@@ -6,21 +6,11 @@ image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly
 x-kinRank: "7"
 x-alexaRank: "548770"
 tags: Banking
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-treasury/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Standard Treasury
-  x-api-slug: standard-treasury
-  description: ""
-  image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png
-  humanURL: http://www.standardtreasury.com/
-  baseURL: https:///
-  tags: Banking
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-treasury/openapi.md
+apis: []
 x-common:
 - type: x-crunchbase
   url: http://www.crunchbase.com/organization/standard-treasury

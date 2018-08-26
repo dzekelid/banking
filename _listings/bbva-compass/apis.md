@@ -7,22 +7,11 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "13635"
 tags: Banking
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/bbva-compass/apis.md
 specificationVersion: "0.14"
-apis:
-- name: BBVA Compass
-  x-api-slug: bbva-compass
-  description: BBVA Compass bank offers checking and savings accounts, credit cards,
-    wealth management, and other financial services for individuals and businesses.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bbva-logo.jpg
-  humanURL: https://www.bbvaapimarket.com
-  baseURL: https:///
-  tags: Banking
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/bbva-compass/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://bbvaopen4u.com/en/apimarketblog

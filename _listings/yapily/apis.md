@@ -8,23 +8,11 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "7167103"
 tags: Banking
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/yapily/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Yapily
-  x-api-slug: yapily
-  description: Yapily is how people connect to banks, easily! We are an API Only technology
-    provider whose mission is to enable innovative products to connect to banks, empowering
-    a new generation of financial services.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/yapily-logo.png
-  humanURL: https://www.yapily.com
-  baseURL: https://api.yapily.com:443//
-  tags: Banking
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/yapily/openapi.md
+apis: []
 x-common:
 - type: x-api-gallery
   url: http://yahoo.api.gallery.streamdata.io

@@ -8,23 +8,11 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "8"
 x-alexaRank: "0"
 tags: Banking
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/seed/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Seed
-  x-api-slug: seed
-  description: Seed - Online business banking. Seed offers all the services you need,
-    but without the hassle. Managing your banking has never been easier. Seed integrates
-    with the other apps and services you use, helping you put your business on autopilot.
-  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/seed-banking.jpg
-  humanURL: https://seed.co/
-  baseURL: https:///
-  tags: Banking
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/seed/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://seed.co/blog/

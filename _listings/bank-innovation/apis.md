@@ -9,24 +9,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/8717-bank-
 x-kinRank: "8"
 x-alexaRank: "186215"
 tags: Banking
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/bank-innovation/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Bank Innovation
-  x-api-slug: bank-innovation
-  description: 'Visa doesnt see much use for blockchain in its core business, which
-    is transactions at scale, according to CEO Alfred Kelly. At the JPMorgan Technology,
-    Media and Communications conference in Boston yesterday, Kelly said: Remember
-    blockchain actually ...'
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/8717-bank-innovation.jpg
-  humanURL: http://www.bankinnovation.net/
-  baseURL: https:///
-  tags: Banking
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/bank-innovation/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: http://www.bankinnovation.net/recent-posts/

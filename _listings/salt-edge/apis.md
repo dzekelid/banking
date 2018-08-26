@@ -7,22 +7,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28175-www-
 x-kinRank: "7"
 x-alexaRank: "604500"
 tags: Banking
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/salt-edge/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Salt Edge
-  x-api-slug: salt-edge
-  description: Salt Edge Inc. offers financial solutions, such as financial data aggregation,
-    white label banking, and other valued added APIs.
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28175-www-saltedge-com.jpg
-  humanURL: https://www.saltedge.com
-  baseURL: https:///
-  tags: Banking
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/salt-edge/openapi.md
+apis: []
 x-common:
 - type: x-blog
   url: https://blog.saltedge.com/

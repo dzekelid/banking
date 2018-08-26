@@ -7,22 +7,11 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28160-deve
 x-kinRank: "7"
 x-alexaRank: "232"
 tags: Banking
-created: "2018-08-23"
-modified: "2018-08-23"
+created: "2018-08-25"
+modified: "2018-08-25"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/wells-fargo/apis.md
 specificationVersion: "0.14"
-apis:
-- name: Wells Fargo
-  x-api-slug: wells-fargo
-  description: 'Wells Fargo: Provider of banking, mortgage, investing, credit card,
-    and personal, small business, and commercial financial services. Learn more.'
-  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28160-developer-wellsfargo-com.jpg
-  humanURL: https://developer.wellsfargo.com
-  baseURL: https:///
-  tags: Banking
-  properties:
-  - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/wells-fargo/openapi.md
+apis: []
 x-common:
 - type: x-contact-form
   url: https://developer.wellsfargo.com/contact-us
