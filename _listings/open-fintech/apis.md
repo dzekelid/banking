@@ -11,8 +11,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "0"
 tags: Banking
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/open-fintech/apis.md
 specificationVersion: "0.14"
 apis:
@@ -72,6 +72,34 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/open-fintech/banksid-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/open-fintech/banksid-get-openapi.md
+- name: Open FinTech - Bank by ID
+  x-api-slug: banksid-get
+  description: Returns bank with specific ID.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/open-fintech-io.png
+  humanURL: http://openfintech.io
+  baseURL: https://api.openfintech.io//v1/
+  tags: API Provider, Banking, Currencies, Payments, Profiles, General Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/open-fintech/banksid-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/open-fintech/banksid-get-openapi.md
+- name: Open FinTech - List of banks
+  x-api-slug: banks-get
+  description: Returns list of banks. Each object contains general information about
+    bank such as name and status, also information about bank details and related
+    link to main organization.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/open-fintech-io.png
+  humanURL: http://openfintech.io
+  baseURL: https://api.openfintech.io//v1/
+  tags: API Provider, Banking, Currencies, Payments, Profiles, General Data, Service
+    API
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/open-fintech/banks-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/open-fintech/banks-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://open.bank.project.api.gallery.streamdata.io

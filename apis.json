@@ -1,286 +1,684 @@
 {
-	"name": "Dezrez",
-	"x-slug": "dezrez",
-	"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
-	"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28888-www-dezrez-com.jpg",
-	"x-kinRank": "7",
-	"x-alexaRank": "385559",
-	"tags": "Banking",
-	"created": "2018-08-23",
-	"modified": "2018-08-23",
-	"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apis.md",
+	"name": "Streadata.io API Gallery - Banking",
+	"description": "This is a repository of banking APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/banking.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-27",
+	"url": "http://banking.streamdata.gallery/apis.json",
 	"specificationVersion": "0.14",
 	"apis": [
 		{
-			"name": "Dezrez",
-			"x-api-slug": "dezrez",
-			"description": "",
-			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28888-www-dezrez-com.jpg",
-			"humanURL": "https:\/\/www.dezrez.com",
-			"baseURL": "https:\/\/api.dezrez.com\/\/",
-			"tags": "SaaS, Technology, Real Estate, Properties, Service API, Relative Data",
+			"name": "World Bank Data",
+			"x-api-slug": "world-bank-data",
+			"description": "With 189 member countries, the World Bank Group is a unique global partnership fighting poverty worldwide through sustainable solutions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/146-world-bank-data.jpg",
+			"humanURL": "http://data.worldbank.org/",
+			"baseURL": "https:///",
+			"tags": "Banking",
 			"properties": [
 				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apiaccountingsystemsetprimaryaccount-post-postman.md"
-				},
-				{
 					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apiaccountingsystemsetprimaryaccount-post-openapi.md"
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/world-bank-data/openapi.md"
 				}
 			]
 		},
 		{
-			"name": "Dezrez",
-			"x-api-slug": "dezrez",
-			"description": "",
-			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28888-www-dezrez-com.jpg",
-			"humanURL": "https:\/\/www.dezrez.com",
-			"baseURL": "https:\/\/api.dezrez.com\/\/",
-			"tags": "SaaS, Technology, Real Estate, Properties, Service API, Relative Data",
+			"name": "PayPal",
+			"x-api-slug": "paypal",
+			"description": "PayPal is the faster, safer way to send money, make an online payment, receive money or set up a merchant account.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/237-paypal.jpg",
+			"humanURL": "https://paypal.com",
+			"baseURL": "https://svcs.sandbox.paypal.com//",
+			"tags": "Banking",
 			"properties": [
 				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apiaccountingsystemsetprimaryaccount-post-postman.md"
-				},
-				{
 					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apiaccountingsystemsetprimaryaccount-post-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apipeopleidaccounts-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apipeopleidaccounts-get-openapi.md"
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/paypal/openapi.md"
 				}
 			]
 		},
 		{
-			"name": "Dezrez",
-			"x-api-slug": "dezrez",
-			"description": "",
-			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28888-www-dezrez-com.jpg",
-			"humanURL": "https:\/\/www.dezrez.com",
-			"baseURL": "https:\/\/api.dezrez.com\/\/",
-			"tags": "SaaS, Technology, Real Estate, Properties, Service API, Relative Data",
+			"name": "Stripe",
+			"x-api-slug": "stripe",
+			"description": "Online payment processing for internet businesses. Stripe is a suite of payment APIs that powers commerce for online businesses of all sizes, including fraud prevention, and subscription management. Use Stripes payment platform to accept and process p...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/254-stripe.jpg",
+			"humanURL": "https://stripe.com/",
+			"baseURL": "https://api.stripe.com/v1/",
+			"tags": "Banking",
 			"properties": [
 				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apiaccountingsystemsetprimaryaccount-post-postman.md"
-				},
-				{
 					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apiaccountingsystemsetprimaryaccount-post-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apipeopleidaccounts-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apipeopleidaccounts-get-openapi.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apitransferinteraccount-post-openapi.md"
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/stripe/openapi.md"
 				}
 			]
 		},
 		{
-			"name": "Dezrez",
-			"x-api-slug": "dezrez",
-			"description": "",
-			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28888-www-dezrez-com.jpg",
-			"humanURL": "https:\/\/www.dezrez.com",
-			"baseURL": "https:\/\/api.dezrez.com\/\/",
-			"tags": "SaaS, Technology, Real Estate, Properties, Service API, Relative Data",
+			"name": "Xero",
+			"x-api-slug": "xero",
+			"description": "Xero is the QuickBooks alternative. Use Xero accounting software to manage invoicing, bank reconciliation, bookkeeping & more. Start a free trial today!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/279-xero.jpg",
+			"humanURL": "http://www.xero.com/",
+			"baseURL": "https://api.xero.com//",
+			"tags": "Banking",
 			"properties": [
 				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apiaccountingsystemsetprimaryaccount-post-postman.md"
-				},
-				{
 					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apiaccountingsystemsetprimaryaccount-post-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apipeopleidaccounts-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apipeopleidaccounts-get-openapi.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apitransferinteraccount-post-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apiaccountingsystemsetprimaryaccount-post-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apiaccountingsystemsetprimaryaccount-post-openapi.md"
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/openapi.md"
 				}
 			]
 		},
 		{
-			"name": "Dezrez",
-			"x-api-slug": "dezrez",
-			"description": "",
-			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28888-www-dezrez-com.jpg",
-			"humanURL": "https:\/\/www.dezrez.com",
-			"baseURL": "https:\/\/api.dezrez.com\/\/",
-			"tags": "SaaS, Technology, Real Estate, Properties, Service API, Relative Data",
+			"name": "Xignite",
+			"x-api-slug": "xignite",
+			"description": "Financial market data on-demand. Xignite financial Web services help build smarter websites and applications in minutes with zero up-front investment.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/xignite-logo.png",
+			"humanURL": "http://www.xignite.com",
+			"baseURL": "https://www.xignite.com/xVWAP.json/XigniteVWAP",
+			"tags": "Banking",
 			"properties": [
 				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apiaccountingsystemsetprimaryaccount-post-postman.md"
-				},
-				{
 					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apiaccountingsystemsetprimaryaccount-post-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apipeopleidaccounts-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apipeopleidaccounts-get-openapi.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apitransferinteraccount-post-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apiaccountingsystemsetprimaryaccount-post-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apiaccountingsystemsetprimaryaccount-post-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apipeopleidaccounts-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apipeopleidaccounts-get-openapi.md"
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xignite/openapi.md"
 				}
 			]
 		},
 		{
-			"name": "Dezrez",
-			"x-api-slug": "dezrez",
+			"name": "Bankimport",
+			"x-api-slug": "bankimport",
 			"description": "",
-			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28888-www-dezrez-com.jpg",
-			"humanURL": "https:\/\/www.dezrez.com",
-			"baseURL": "https:\/\/api.dezrez.com\/\/",
-			"tags": "SaaS, Technology, Real Estate, Properties, Service API, Relative Data",
+			"image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png",
+			"humanURL": "https://www.bankimport.com/",
+			"baseURL": "https:///",
+			"tags": "Banking",
 			"properties": [
 				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apiaccountingsystemsetprimaryaccount-post-postman.md"
-				},
-				{
 					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apiaccountingsystemsetprimaryaccount-post-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apipeopleidaccounts-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apipeopleidaccounts-get-openapi.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apitransferinteraccount-post-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apiaccountingsystemsetprimaryaccount-post-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apiaccountingsystemsetprimaryaccount-post-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apipeopleidaccounts-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apipeopleidaccounts-get-openapi.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apitransferinteraccount-post-openapi.md"
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/bankimport/openapi.md"
 				}
 			]
 		},
 		{
-			"name": "Dezrez",
-			"x-api-slug": "dezrez",
-			"description": "",
-			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28888-www-dezrez-com.jpg",
-			"humanURL": "https:\/\/www.dezrez.com",
-			"baseURL": "https:\/\/api.dezrez.com\/\/",
-			"tags": "SaaS, Technology, Real Estate, Properties, Service API, Relative Data",
+			"name": "Plaid",
+			"x-api-slug": "plaid",
+			"description": "Develop the future of fintech with Plaid, the technology layer for financial services. Plaid enables applications to connect with users??? bank accounts.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2112-plaid.jpg",
+			"humanURL": "https://plaid.com",
+			"baseURL": "https:///",
+			"tags": "Banking",
 			"properties": [
 				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apiaccountingsystemsetprimaryaccount-post-postman.md"
-				},
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plaid/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Square",
+			"x-api-slug": "square",
+			"description": "Square helps millions of sellers run their business- from secure credit card processing to point of sale solutions. Get paid faster with Square and sign up today!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2176-square.jpg",
+			"humanURL": "http://square.com",
+			"baseURL": "https://connect.squareup.com//",
+			"tags": "Banking",
+			"properties": [
 				{
 					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apiaccountingsystemsetprimaryaccount-post-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apipeopleidaccounts-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apipeopleidaccounts-get-openapi.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apitransferinteraccount-post-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apiaccountingsystemsetprimaryaccount-post-postman.md"
-				},
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/square/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "BBVA Compass",
+			"x-api-slug": "bbva-compass",
+			"description": "BBVA Compass bank offers checking and savings accounts, credit cards, wealth management, and other financial services for individuals and businesses.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bbva-logo.jpg",
+			"humanURL": "https://www.bbvaapimarket.com",
+			"baseURL": "https:///",
+			"tags": "Banking",
+			"properties": [
 				{
 					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apiaccountingsystemsetprimaryaccount-post-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apipeopleidaccounts-get-postman.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apipeopleidaccounts-get-openapi.md"
-				},
-				{
-					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apitransferinteraccount-post-openapi.md"
-				},
-				{
-					"type": "x-postman-collection",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apiaccountingsystemsetprimaryaccount-post-postman.md"
-				},
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/bbva-compass/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Bank Innovation",
+			"x-api-slug": "bank-innovation",
+			"description": "Visa doesnt see much use for blockchain in its core business, which is transactions at scale, according to CEO Alfred Kelly. At the JPMorgan Technology, Media and Communications conference in Boston yesterday, Kelly said: Remember blockchain actually ...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/8717-bank-innovation.jpg",
+			"humanURL": "http://www.bankinnovation.net/",
+			"baseURL": "https:///",
+			"tags": "Banking",
+			"properties": [
 				{
 					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/apiaccountingsystemsetprimaryaccount-post-openapi.md"
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/bank-innovation/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Standard Treasury",
+			"x-api-slug": "standard-treasury",
+			"description": "",
+			"image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/api-butterfly.png",
+			"humanURL": "http://www.standardtreasury.com/",
+			"baseURL": "https:///",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-treasury/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Trustly",
+			"x-api-slug": "trustly",
+			"description": "",
+			"image": "",
+			"humanURL": "https://trustly.com/en/",
+			"baseURL": "https:///",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/trustly/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Open Bank Project",
+			"x-api-slug": "open-bank-project",
+			"description": "The Open Bank Project is an open source API and App store for banks that empowers financial institutions to securely and rapidly enhance their digital offerings using an ecosystem of 3rd party applications and services.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/open-bank-project.png",
+			"humanURL": "https://openbankproject.com/",
+			"baseURL": "https:////open-banking/v2.0",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/open-bank-project/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Seed",
+			"x-api-slug": "seed",
+			"description": "Seed - Online business banking. Seed offers all the services you need, but without the hassle. Managing your banking has never been easier. Seed integrates with the other apps and services you use, helping you put your business on autopilot.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/seed-banking.jpg",
+			"humanURL": "https://seed.co/",
+			"baseURL": "https:///",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/seed/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Capital One DevExchange",
+			"x-api-slug": "capital-one-devexchange",
+			"description": "What unites us all is a desire to create better end customer experiences. Were building a full suite of tools and technology that make essential things in peoples everyday life &ndash; money, finances, identity &ndash; simpler for you. Now is the time to join our beta program, and help us shape the future.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/capitalone-devexchange.png",
+			"humanURL": "http://capitalone.com",
+			"baseURL": "https://api.reimaginebanking.com//",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/capital-one-devexchange/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Lykke",
+			"x-api-slug": "lykke",
+			"description": "Lykke is a movement to build one global marketplace that is a level playing field where everyone has access.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/26564-lykke.jpg",
+			"humanURL": "https://lykke.com",
+			"baseURL": "https:////",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/lykke/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Intrinio",
+			"x-api-slug": "intrinio",
+			"description": "Intelligent Data, On Demand. The financial data platform for developers, investors, students, and educators, with over 200 feeds including real-time, intraday, EOD, and international financial data available via REST API, WebSocket, CSV, Excel, and Goo...",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/intrinio-logo-data-intelligence-on-demand.png",
+			"humanURL": "http://www.intrinio.com",
+			"baseURL": "https:///",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/intrinio/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "HSBC",
+			"x-api-slug": "hsbc",
+			"description": "HSBC Holdings plc is a British multinational banking and financial services holding company, tracing its origin to a hong in Hong Kong. It is the worlds seventh largest bank by total assets and the largest in Europe with total assets of US$2.374 trillion (as of December 2016). It was established in its present form in London in 1991 by The Hongkong and Shanghai Banking Corporation to act as a new group holding company. The origins of the bank lie mainly in Hong Kong and to a lesser extent in Shanghai, where branches were first opened in 1865. The HSBC name is derived from the initials of the Hongkong and Shanghai Banking Corporation. The company was first formally incorporated in 1866. The company continues to see both the United Kingdom and Hong Kong as its home markets.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/HSBC-Logo.png",
+			"humanURL": "https://hsbc.com",
+			"baseURL": "https://api.hsbc.com/open-banking/v2.1/",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/hsbc/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Danske Bank",
+			"x-api-slug": "danske-bank",
+			"description": "Danske Bank is a Danish bank whose name also literally translates into Danish Bank. It was founded 5 October 1871 as Den Danske Landmandsbank, Hypothek- og Vexelbank i Kjbenhavn (The Danish Farmers Bank, Mortgage and Exchange Bank of Copenhagen). Headquartered in Copenhagen, it is the largest bank in Denmark and a major retail bank in the northern European region with over 5 million retail customers. Danske Bank was number 454 on the Fortune Global 500 list for 2011.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28107-danske-bank.jpg",
+			"humanURL": "https://danskebank.com",
+			"baseURL": "https://obp-data.danskebank.com/open-banking/v2.1/",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/danske-bank/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Lloyds Bank",
+			"x-api-slug": "lloyds-bank",
+			"description": "Lloyds Bank plc is a British retail and commercial bank with branches across England and Wales. It has traditionally been considered one of the Big Four clearing banks. The bank was founded in Birmingham in 1765. It expanded during the nineteenth and twentieth centuries and took over a number of smaller banking companies. In 1995 it merged with the Trustee Savings Bank and traded as Lloyds TSB Bank plc between 1999 and 2013.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/lloyds_bank.png",
+			"humanURL": "https://lloydsbank.com",
+			"baseURL": "https://api.lloydsbank.com/open-banking/v2.1/",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/lloyds-bank/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Barclays",
+			"x-api-slug": "barclays",
+			"description": "Barclays is a British multinational bank and financial services company headquartered in London. It is a universal bank with global reach, offering products and services across personal, corporate and investment banking, credit cards and wealth management. It has operations in over 40 countries and employs approximately 120,000 people. Barclays is organised into four core businesses: Personal &amp; Corporate (Personal Banking, Corporate Banking, Wealth &amp; Investment Management), Barclaycard, Investment Banking and Africa.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/barclays-logo.png",
+			"humanURL": "https://barclays.com",
+			"baseURL": "https://atlas.api.barclays/open-banking/v2.1/",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/barclays/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Royal Bank of Scotland",
+			"x-api-slug": "royal-bank-of-scotland",
+			"description": "The Royal Bank of Scotland (Scottish Gaelic: Banca R&igrave;oghail na h-Alba, Scots: Ryal Baunk o Scotland, Welsh: Banc Brenhinol yr Alban), commonly abbreviated as RBS, is one of the retail banking subsidiaries of The Royal Bank of Scotland Group plc, together with NatWest and Ulster Bank. The Royal Bank of Scotland has around 700 branches, mainly in Scotland, though there are branches in many larger towns and cities throughout England and Wales. Both the bank and its parent, The Royal Bank of Scotland Group, are completely separate from the fellow Edinburgh-based bank, the Bank of Scotland, which pre-dates The Royal Bank of Scotland by 32 years.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/royal-bank-of-scotland.png",
+			"humanURL": "https://www.rbs.com",
+			"baseURL": "https://openapi.rbs.co.uk/open-banking/v2.1/",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/royal-bank-of-scotland/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Standard Chartered",
+			"x-api-slug": "standard-chartered",
+			"description": "Standard Chartered PLC is a British multinational banking and financial services company headquartered in London, England. It operates a network of more than 1,200 branches and outlets (including subsidiaries, associates and joint ventures) across more than 70 countries and employs around 87,000 people. It is a universal bank with operations in consumer, corporate and institutional banking, and treasury services. Despite its UK base, it does not conduct retail banking in the UK, and around 90% of its profits come from Asia, Africa and the Middle East.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/standard-charter.png",
+			"humanURL": "https://developer.sc.com",
+			"baseURL": "https://developer.sc.com//",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "OCBC Bank",
+			"x-api-slug": "ocbc-bank",
+			"description": "The OCBC Bank group comprises a family of companies owned by Singapores longest established local bank. To address the diversity across cultures and geographies, OCBC Bank has expanded and acquired entities beyond the world of traditional commercial banking. By understanding our customers needs, we develop convenient and effective technologies to improve the user experience. Today, through APIs that are simple to manage, we offer this convenience to you.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28117-ocbc-bank.jpg",
+			"humanURL": "https://api.ocbc.com",
+			"baseURL": "https:///",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ocbc-bank/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "First Trust Bank",
+			"x-api-slug": "first-trust-bank",
+			"description": "First Trust Bank is a trade mark of AIB Group (UK) p.l.c. (a wholly owned subsidiary of Allied Irish Banks, p.l.c.), incorporated in Northern Ireland. Registered Office 92 Ann Street, Belfast BT1 3HH. Registered Number NI018800. Authorised by the Prudential Regulation Authority and regulated by the Financial Conduct Authority and the Prudential Regulation Authority.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/mdy_8774354__firsttrustbank.jpg",
+			"humanURL": "https://firsttrustbank.co.uk/",
+			"baseURL": "https://openapi.firsttrustbank.co.uk/open-banking/v2.1/",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/first-trust-bank/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Allied Irish Bank",
+			"x-api-slug": "allied-irish-bank",
+			"description": "Allied Irish Banks (AIB) is one of the so-called Big Four commercial banks in Ireland. AIB offers a full range of personal and corporate banking services. AIB Capital Markets is the division of the company that offers international banking and treasury operations. The bank also offers a range of general insurance products such as home, travel, and health insurance. It offers life assurance and pensions through its tied agency with Irish Life Assurance plc.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/allied-irish-bank.jpeg",
+			"humanURL": "https://aibgb.co.uk/",
+			"baseURL": "https://openapi.aibgb.co.uk/open-banking/v2.1/",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/allied-irish-bank/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Santander Bank",
+			"x-api-slug": "santander-bank",
+			"description": "Santander Bank, N. A., formerly Sovereign Bank, is a wholly owned subsidiary of Spanish Santander Group. It is based in Boston and its principal market is the northeastern United States. It has $54.7 billion in deposits, operates about 650 retail banking offices and over 2,000 ATMs, and employs approximately 9,800 people. It offers an array of financial services and products including retail banking, mortgages, corporate banking, cash management, credit card, capital markets, trust and wealth management, and insurance.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28128-www-santanderbank-com.jpg",
+			"humanURL": "https://www.santanderbank.com",
+			"baseURL": "https://openapi.santander.co.uk/open-banking/v2.1/",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/santander-bank/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "NatWest",
+			"x-api-slug": "natwest",
+			"description": "National Westminster Bank, commonly known as NatWest, is a large retail and commercial bank in the United Kingdom. It was established in 1968 by the merger of National Provincial Bank (established 1833 as National Provincial Bank of England) and Westminster Bank (established 1834 as London County and Westminster Bank). Since 2000 it has been part of the Royal Bank of Scotland Group. Following ring-fencing of the Groups core domestic business, the bank is a direct subsidiary of NatWest Holdings. NatWest Markets comprises its investment banking arm.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/natwest-logo.png",
+			"humanURL": "https://personal.natwest.com/personal.html",
+			"baseURL": "https://openapi.natwest.com/open-banking/v2.1/",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/natwest/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Ulster Bank",
+			"x-api-slug": "ulster-bank",
+			"description": "Ulster Bank is a large commercial bank, and one of the traditional Big Four Irish banks. The Ulster Bank Group is subdivided into two separate legal entities, Ulster Bank Limited (UBL &ndash; registered in Northern Ireland) and Ulster Bank Ireland DAC (UBIDAC &ndash; registered in the Republic of Ireland). The Groups headquarters (and UBIDACs) is located on Georges Quay, Dublin, in the Republic of Ireland whilst the official headquarters of UBL is in Donegall Square East, Belfast, in Northern Ireland, and it maintains a large sector of the financial services in both the UK and the Republic of Ireland.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.png",
+			"humanURL": "https://digital.ulsterbank.co.uk/",
+			"baseURL": "https://openapi.ulsterbank.co.uk/open-banking/v2.1/",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Coutts",
+			"x-api-slug": "coutts",
+			"description": "Coutts /??ku?ts/ is a private bank and wealth manager, founded in 1692. It is the seventh oldest bank in the world and its international arm was sold to Union Bancaire Priv&eacute;e in March 2015. It has been owned by the Royal Bank of Scotland Group (RBS) since 2000, when RBS purchased its parent, NatWest. Coutts formed part of RBSs private banking division. During its time with RBS, it acquired Z&uuml;rich-based Bank von Ernst &amp; Cie and in 2008, Coutts Bank von Ernst and other Coutts International subsidiaries became RBS Coutts Bank. These traded as RBS Coutts International to align them with the parent RBS Group until 2011, when RBS Coutts was renamed Coutts &amp; Co. Limited.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Coutts-logo.jpg",
+			"humanURL": "https://www.coutts.com/",
+			"baseURL": "https://openapi.coutts.com/open-banking/v2.1/",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/coutts/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Esme",
+			"x-api-slug": "esme",
+			"description": "At Esme, our aim is to provide the money your business needs quickly and with the minimum of fuss. By quickly verifying your details and analysing your credit profile, we waste no time seeing if we can make you an offer. You can relax knowing our security technology ensures the confidentiality and safety of your information.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/esmeloans-logo.png",
+			"humanURL": "http://openbankingapis.io/uk/esme",
+			"baseURL": "https://openapi.esmeloans.com/open-banking/v2.1/",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/esme/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Halifax Bank",
+			"x-api-slug": "halifax-bank",
+			"description": "Halifax is a British bank operating as a trading division of Bank of Scotland, itself a wholly owned subsidiary of Lloyds Banking Group. It is named after the town of Halifax, West Yorkshire where it was founded as a building society in 1853",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Halifax_Logo.png",
+			"humanURL": "https://www.halifax.co.uk/",
+			"baseURL": "https://api.halifax.co.uk/open-banking/v2.1/",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/halifax-bank/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Nationwide Building Society",
+			"x-api-slug": "nationwide-building-society",
+			"description": "Nationwide Building Society is a British mutual financial institution and the largest building society in the world with over 15 million members. It has its headquarters in Swindon, with an office in Threadneedle Street, London, and administration centres based in Bournemouth, Northampton and Dunfermline. Made up of over a hundred mergers &mdash; most notably its merger with Anglia Building Society in 1987 and Portman Building Society in 2007 &mdash; Nationwide is now the second largest provider of household savings and mortgages in the UK.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/nationwide-building-society.png",
+			"humanURL": "https://www.nationwide.co.uk/",
+			"baseURL": "https://openapi.nationwide.co.uk/open-banking/v2.1/",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/nationwide-building-society/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Bank of Ireland",
+			"x-api-slug": "bank-of-ireland",
+			"description": "Bank of Ireland Group plc is a public limited company incorporated in Ireland, with its registered office at 40 Mespil Road, Dublin 4 and registered number 593672. Bank of Ireland Group plc, whose shares are listed on the main markets of the Irish Stock Exchange plc and the London Stock Exchange plc , is the holding company of Bank of Ireland.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bank-of-ireland.jpg",
+			"humanURL": "https://www.bankofireland.com/",
+			"baseURL": "https://openapi.bankofireland.com/open-banking/v2.1/",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/bank-of-ireland/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Bank of Scotland",
+			"x-api-slug": "bank-of-scotland",
+			"description": "The Bank of Scotland is a commercial and clearing bank based in Edinburgh, Scotland. With a history dating to the 17th century, it is the fifth-oldest surviving bank in the United Kingdom (the Bank of England having been established one year before), and is the only commercial institution created by the Parliament of Scotland to remain in existence. It was one of the first banks in Europe to print its own banknotes and it continues to print its own sterling banknotes under legal arrangements which allow Scottish banks to issue currency.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bank-of-scotland-logo.jpg",
+			"humanURL": "https://www.bankofscotland.co.uk/",
+			"baseURL": "https://api.bankofscotland.co.uk/open-banking/v2.1/",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/bank-of-scotland/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Wells Fargo",
+			"x-api-slug": "wells-fargo",
+			"description": "Wells Fargo: Provider of banking, mortgage, investing, credit card, and personal, small business, and commercial financial services. Learn more.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28160-developer-wellsfargo-com.jpg",
+			"humanURL": "https://developer.wellsfargo.com",
+			"baseURL": "https:///",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/wells-fargo/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Salt Edge",
+			"x-api-slug": "salt-edge",
+			"description": "Salt Edge Inc. offers financial solutions, such as financial data aggregation, white label banking, and other valued added APIs.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28175-www-saltedge-com.jpg",
+			"humanURL": "https://www.saltedge.com",
+			"baseURL": "https:///",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/salt-edge/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "luna connect",
+			"x-api-slug": "luna-connect",
+			"description": "luna connect is a data marketplace and developer platform providing fintechs access to banking data using APIs",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28181-lunaconnect-io.jpg",
+			"humanURL": "https://lunaconnect.io/apis/index.html",
+			"baseURL": "https:///",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/luna-connect/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "The Bridge API",
+			"x-api-slug": "the-bridge-api",
+			"description": "Smart Financial Technology. Our technologies allow you to aggregate and process financial data in your applications. We make smart financial data. With our API, you benefit from standardized mapping on all data from more than 350 financial institutions in Europe. Aggregation of financial data. Bridge is the most reliable and secure financial aggregation solution in Europe. Easily retrieve current account, savings, credit, life insurance and PEA data in seconds from individual or pro accounts.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/the-bridge-api.png",
+			"humanURL": "https://bridgeapi.io",
+			"baseURL": "https:///",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/the-bridge-api/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "equensWorldline",
+			"x-api-slug": "equensworldline",
+			"description": "equensWorldline is the pan-European leader in payments and transactional services. Being part of the Worldline Group, we combine long-standing proven expertise in traditional mass payment systems and innovative e-commerce and mobile payment solutions. With more than 50 years of experience we service a broad, international client base in numerous countries across Europe. Clients rely on our expertise to anticipate European regulatory changes, benefit from transformative technologies, optimize processes, ensure operational excellence and manage risk and fraud. We accelerate our clients&rsquo; time-to-market and digital transformation, allowing them to cater for the shifting needs and increasing demands of their customers. What&rsquo;s more, our unparalleled footprint allows us to achieve economies of scale and synergies, making us a cost-efficient and competitive business partner for seamless, secure and efficient payment solutions.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28340-equensworldline-com.jpg",
+			"humanURL": "https://equensworldline.com",
+			"baseURL": "https:///",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/equensworldline/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Open FinTech",
+			"x-api-slug": "open-fintech",
+			"description": "International standards yield technological, economic and social advantages. Standards speed up the development of new applications and simplify the process of communication between the services. Data and service is available under the Open Database License (ODbL). It is an open standard and open data, every player of FinTech market can contribute to development and enhancement. All data is available through Rest API based on JSON API standard.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/open-fintech-io.png",
+			"humanURL": "http://openfintech.io",
+			"baseURL": "https://api.openfintech.io//v1/",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/open-fintech/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "PayRun",
+			"x-api-slug": "payrun",
+			"description": "An open, scalable, transparent and HMRC accredited payroll API. Put the power of payroll into your application today.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28484-payrun-io.jpg",
+			"humanURL": "http://www.payrun.io",
+			"baseURL": "https://api.test.payrun.io//",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/payrun/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Rebilly",
+			"x-api-slug": "rebilly",
+			"description": "",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rebilly.png",
+			"humanURL": "https://www.rebilly.com",
+			"baseURL": "https://api.rebilly.com//v2.1",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/rebilly/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Yapily",
+			"x-api-slug": "yapily",
+			"description": "Yapily is how people connect to banks, easily! We are an API Only technology provider whose mission is to enable innovative products to connect to banks, empowering a new generation of financial services.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/yapily-logo.png",
+			"humanURL": "https://www.yapily.com",
+			"baseURL": "https://api.yapily.com:443//",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/yapily/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "Plentymarkets",
+			"x-api-slug": "plentymarkets",
+			"description": "plentymarkets is an all-in-one e-commerce ERP solution, which combines a comprehensive stock management system with a versatile shop system and effortless multichannel sales. Thanks to comprehensive functions and interfaces that include all steps of the e-commerce value chain, you can use the cloud based software to completely automate all of your e-business processes as well as your companys own individual processes.",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/plentymarkets.png",
+			"humanURL": "http://www.plentymarkets.co.uk",
+			"baseURL": "https://example.com//",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/openapi.md"
 				}
 			]
 		},
@@ -288,59 +686,222 @@
 			"name": "Dezrez",
 			"x-api-slug": "dezrez",
 			"description": "Cloud based estate agent software , sales & letting agent software, estate agent website design and property management software - Dezrez  Services",
-			"image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/28888-www-dezrez-com.jpg",
-			"humanURL": "https:\/\/www.dezrez.com",
-			"baseURL": "https:\/\/api.dezrez.com\/\/",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg",
+			"humanURL": "https://www.dezrez.com",
+			"baseURL": "https://api.dezrez.com//",
 			"tags": "Banking",
 			"properties": [
 				{
 					"type": "x-openapi-spec",
-					"url": "https:\/\/raw.githubusercontent.com\/streamdata-gallery-topics\/banking\/master\/_listings\/dezrez\/openapi.md"
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/openapi.md"
+				}
+			]
+		},
+		{
+			"name": "ChainGenie",
+			"x-api-slug": "chaingenie",
+			"description": "ChainGenie provides a plug and play platform that helps you connect your existing (or create new) applications to DLTs for lodging and workflow management using a simple easy to use user interface. ChainGenie is a platform to create blockchain apps that provide speed-to-market for companies looking to launch faster, rather than reinvent the wheel. Write your applications to run on popular Blockchain networks like Ethereum, Bitcoin Blockchain etc with great ease when you require to validate credentials or make your existing traditional applications use the power of DLT and blockchain overnight!",
+			"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28902-api-chaingenie-com.jpg",
+			"humanURL": "http://chaingenie.com",
+			"baseURL": "https://api.chaingenie.com//api/v1",
+			"tags": "Banking",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/chaingenie/openapi.md"
 				}
 			]
 		}
 	],
-	"x-common": [
-		{
-			"type": "x-github",
-			"url": "https:\/\/github.com\/dezrez"
-		},
-		{
-			"type": "x-openapi",
-			"url": "https:\/\/api.dezrez.com:443\/swagger\/docs\/v1"
-		},
-		{
-			"type": "x-api-gallery",
-			"url": "http:\/\/datumbox.api.gallery.streamdata.io"
-		},
-		{
-			"type": "x-api-stack",
-			"url": "http:\/\/dezrez.stack.network"
-		},
-		{
-			"type": "x-documentation",
-			"url": "https:\/\/api.dezrez.com\/swagger\/ui\/index#!\/AccountingExport"
-		},
-		{
-			"type": "x-support",
-			"url": "https:\/\/www.dezrez.com\/uk\/estate-agency-software-support"
-		},
-		{
-			"type": "x-twitter",
-			"url": "https:\/\/twitter.com\/dezrezsoftware"
-		},
-		{
-			"type": "x-website",
-			"url": "https:\/\/www.dezrez.com"
-		}
-	],
+	"tags": "Banking",
 	"include": [
-	],
-	"maintainers": [
 		{
-			"FN": "Kin Lane",
-			"x-twitter": "apievangelist",
-			"email": "info@apievangelist.com"
+			"name": "World Bank Data",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/world-bank-data/apis.yaml"
+		},
+		{
+			"name": "PayPal",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/paypal/apis.yaml"
+		},
+		{
+			"name": "Stripe",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/stripe/apis.yaml"
+		},
+		{
+			"name": "Xero",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xero/apis.yaml"
+		},
+		{
+			"name": "Xignite",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/xignite/apis.yaml"
+		},
+		{
+			"name": "Bankimport",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/bankimport/apis.yaml"
+		},
+		{
+			"name": "Plaid",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plaid/apis.yaml"
+		},
+		{
+			"name": "Square",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/square/apis.yaml"
+		},
+		{
+			"name": "BBVA Compass",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/bbva-compass/apis.yaml"
+		},
+		{
+			"name": "Bank Innovation",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/bank-innovation/apis.yaml"
+		},
+		{
+			"name": "Standard Treasury",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-treasury/apis.yaml"
+		},
+		{
+			"name": "Trustly",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/trustly/apis.yaml"
+		},
+		{
+			"name": "Open Bank Project",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/open-bank-project/apis.yaml"
+		},
+		{
+			"name": "Seed",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/seed/apis.yaml"
+		},
+		{
+			"name": "Capital One DevExchange",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/capital-one-devexchange/apis.yaml"
+		},
+		{
+			"name": "Lykke",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/lykke/apis.yaml"
+		},
+		{
+			"name": "Intrinio",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/intrinio/apis.yaml"
+		},
+		{
+			"name": "HSBC",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/hsbc/apis.yaml"
+		},
+		{
+			"name": "Danske Bank",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/danske-bank/apis.yaml"
+		},
+		{
+			"name": "Lloyds Bank",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/lloyds-bank/apis.yaml"
+		},
+		{
+			"name": "Barclays",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/barclays/apis.yaml"
+		},
+		{
+			"name": "Royal Bank of Scotland",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/royal-bank-of-scotland/apis.yaml"
+		},
+		{
+			"name": "Standard Chartered",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/standard-chartered/apis.yaml"
+		},
+		{
+			"name": "OCBC Bank",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ocbc-bank/apis.yaml"
+		},
+		{
+			"name": "First Trust Bank",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/first-trust-bank/apis.yaml"
+		},
+		{
+			"name": "Allied Irish Bank",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/allied-irish-bank/apis.yaml"
+		},
+		{
+			"name": "Santander Bank",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/santander-bank/apis.yaml"
+		},
+		{
+			"name": "NatWest",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/natwest/apis.yaml"
+		},
+		{
+			"name": "Ulster Bank",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/apis.yaml"
+		},
+		{
+			"name": "Coutts",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/coutts/apis.yaml"
+		},
+		{
+			"name": "Esme",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/esme/apis.yaml"
+		},
+		{
+			"name": "Halifax Bank",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/halifax-bank/apis.yaml"
+		},
+		{
+			"name": "Nationwide Building Society",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/nationwide-building-society/apis.yaml"
+		},
+		{
+			"name": "Bank of Ireland",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/bank-of-ireland/apis.yaml"
+		},
+		{
+			"name": "Bank of Scotland",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/bank-of-scotland/apis.yaml"
+		},
+		{
+			"name": "Wells Fargo",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/wells-fargo/apis.yaml"
+		},
+		{
+			"name": "Salt Edge",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/salt-edge/apis.yaml"
+		},
+		{
+			"name": "luna connect",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/luna-connect/apis.yaml"
+		},
+		{
+			"name": "The Bridge API",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/the-bridge-api/apis.yaml"
+		},
+		{
+			"name": "equensWorldline",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/equensworldline/apis.yaml"
+		},
+		{
+			"name": "Open FinTech",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/open-fintech/apis.yaml"
+		},
+		{
+			"name": "PayRun",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/payrun/apis.yaml"
+		},
+		{
+			"name": "Rebilly",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/rebilly/apis.yaml"
+		},
+		{
+			"name": "Yapily",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/yapily/apis.yaml"
+		},
+		{
+			"name": "Plentymarkets",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/plentymarkets/apis.yaml"
+		},
+		{
+			"name": "Dezrez",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apis.yaml"
+		},
+		{
+			"name": "ChainGenie",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/chaingenie/apis.yaml"
 		}
 	]
 }

@@ -1,4 +1,3 @@
----
 swagger: "2.0"
 x-collection-name: Ulster Bank
 x-complete: 1
@@ -96,4 +95,3 @@ paths:
       - Unsecured
       - SME
       - Loans
----

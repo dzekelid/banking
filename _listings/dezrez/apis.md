@@ -7,8 +7,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-
 x-kinRank: "7"
 x-alexaRank: "385559"
 tags: Banking
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apis.md
 specificationVersion: "0.14"
 apis:
@@ -36,6 +36,18 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apipeopleidaccounts-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apipeopleidaccounts-get-openapi.md
+- name: Dezrez.Rezi.Client.Api - Transfer funds between bank accounts (also Deposit
+    Cash/Cheques from Cash Held)
+  x-api-slug: apitransferinteraccount-post
+  description: Transfer funds between bank accounts (also deposit cash/cheques from
+    cash held).
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apitransferinteraccount-post-openapi.md
 - name: Dezrez.Rezi.Client.Api - Set Primary Bank Account for Accounting System
   x-api-slug: apiaccountingsystemsetprimaryaccount-post
   description: Set primary bank account for accounting system.
@@ -48,6 +60,54 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apiaccountingsystemsetprimaryaccount-post-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apiaccountingsystemsetprimaryaccount-post-openapi.md
+- name: Dezrez.Rezi.Client.Api - Get the bank details for a person
+  x-api-slug: apipeopleidaccounts-get
+  description: Get the bank details for a person.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apipeopleidaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apipeopleidaccounts-get-openapi.md
+- name: Dezrez.Rezi.Client.Api - Transfer funds between bank accounts (also Deposit
+    Cash/Cheques from Cash Held)
+  x-api-slug: apitransferinteraccount-post
+  description: Transfer funds between bank accounts (also deposit cash/cheques from
+    cash held).
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apitransferinteraccount-post-openapi.md
+- name: Dezrez.Rezi.Client.Api - Set Primary Bank Account for Accounting System
+  x-api-slug: apiaccountingsystemsetprimaryaccount-post
+  description: Set primary bank account for accounting system.
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apiaccountingsystemsetprimaryaccount-post-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apiaccountingsystemsetprimaryaccount-post-openapi.md
+- name: Dezrez.Rezi.Client.Api - Transfer funds between bank accounts (also Deposit
+    Cash/Cheques from Cash Held)
+  x-api-slug: apitransferinteraccount-post
+  description: Transfer funds between bank accounts (also deposit cash/cheques from
+    cash held).
+  image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28888-www-dezrez-com.jpg
+  humanURL: https://www.dezrez.com
+  baseURL: https://api.dezrez.com//
+  tags: SaaS, Technology, Real Estate, Properties, Service API, Relative Data
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/dezrez/apitransferinteraccount-post-openapi.md
 - name: Dezrez.Rezi.Client.Api - Get the bank details for a person
   x-api-slug: apipeopleidaccounts-get
   description: Get the bank details for a person.

@@ -6,11 +6,161 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "7"
 x-alexaRank: "0"
 tags: Banking
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/rebilly/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Rebilly - Retrieve a list of bank accounts
+  x-api-slug: bankaccounts-get
+  description: Retrieve a list of Bank Accounts
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rebilly.png
+  humanURL: https://www.rebilly.com
+  baseURL: https://api.rebilly.com//v2.1
+  tags: Billing, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/rebilly/bankaccounts-get-openapi.md
+- name: Rebilly - Create a Bank Account
+  x-api-slug: bankaccounts-post
+  description: Create a Bank Account
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rebilly.png
+  humanURL: https://www.rebilly.com
+  baseURL: https://api.rebilly.com//v2.1
+  tags: Billing, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/rebilly/bankaccounts-post-openapi.md
+- name: Rebilly - Retrieve a Bank Account
+  x-api-slug: bankaccountsid-get
+  description: Retrieve a Bank Account with specified identifier string
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rebilly.png
+  humanURL: https://www.rebilly.com
+  baseURL: https://api.rebilly.com//v2.1
+  tags: Billing, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/rebilly/bankaccountsid-get-openapi.md
+- name: Rebilly - Deactivate a Bank Account
+  x-api-slug: bankaccountsiddeactivation-post
+  description: Deactivate a Bank Account
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rebilly.png
+  humanURL: https://www.rebilly.com
+  baseURL: https://api.rebilly.com//v2.1
+  tags: Billing, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/rebilly/bankaccountsiddeactivation-post-openapi.md
+- name: Rebilly - Create a BankAccount with predefined ID
+  x-api-slug: bankaccountsid-put
+  description: Create or update a BankAccount with predefined identifier string
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rebilly.png
+  humanURL: https://www.rebilly.com
+  baseURL: https://api.rebilly.com//v2.1
+  tags: Billing, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/rebilly/bankaccountsid-put-openapi.md
+- name: Rebilly - Retrieve a list of bank accounts
+  x-api-slug: bankaccounts-get
+  description: Retrieve a list of Bank Accounts
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rebilly.png
+  humanURL: https://www.rebilly.com
+  baseURL: https://api.rebilly.com//v2.1
+  tags: Billing, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/rebilly/bankaccounts-get-openapi.md
+- name: Rebilly - Create a Bank Account
+  x-api-slug: bankaccounts-post
+  description: Create a Bank Account
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rebilly.png
+  humanURL: https://www.rebilly.com
+  baseURL: https://api.rebilly.com//v2.1
+  tags: Billing, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/rebilly/bankaccounts-post-openapi.md
+- name: Rebilly - Retrieve a Bank Account
+  x-api-slug: bankaccountsid-get
+  description: Retrieve a Bank Account with specified identifier string
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rebilly.png
+  humanURL: https://www.rebilly.com
+  baseURL: https://api.rebilly.com//v2.1
+  tags: Billing, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/rebilly/bankaccountsid-get-openapi.md
+- name: Rebilly - Deactivate a Bank Account
+  x-api-slug: bankaccountsiddeactivation-post
+  description: Deactivate a Bank Account
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rebilly.png
+  humanURL: https://www.rebilly.com
+  baseURL: https://api.rebilly.com//v2.1
+  tags: Billing, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/rebilly/bankaccountsiddeactivation-post-openapi.md
+- name: Rebilly - Create a BankAccount with predefined ID
+  x-api-slug: bankaccountsid-put
+  description: Create or update a BankAccount with predefined identifier string
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rebilly.png
+  humanURL: https://www.rebilly.com
+  baseURL: https://api.rebilly.com//v2.1
+  tags: Billing, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/rebilly/bankaccountsid-put-openapi.md
+- name: Rebilly - Deactivate a Bank Account
+  x-api-slug: bankaccountsiddeactivation-post
+  description: Deactivate a Bank Account
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rebilly.png
+  humanURL: https://www.rebilly.com
+  baseURL: https://api.rebilly.com//v2.1
+  tags: Billing, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/rebilly/bankaccountsiddeactivation-post-openapi.md
+- name: Rebilly - Retrieve a Bank Account
+  x-api-slug: bankaccountsid-get
+  description: Retrieve a Bank Account with specified identifier string
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rebilly.png
+  humanURL: https://www.rebilly.com
+  baseURL: https://api.rebilly.com//v2.1
+  tags: Billing, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/rebilly/bankaccountsid-get-openapi.md
+- name: Rebilly - Create a Bank Account
+  x-api-slug: bankaccounts-post
+  description: Create a Bank Account
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rebilly.png
+  humanURL: https://www.rebilly.com
+  baseURL: https://api.rebilly.com//v2.1
+  tags: Billing, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/rebilly/bankaccounts-post-openapi.md
+- name: Rebilly - Retrieve a list of bank accounts
+  x-api-slug: bankaccounts-get
+  description: Retrieve a list of Bank Accounts
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rebilly.png
+  humanURL: https://www.rebilly.com
+  baseURL: https://api.rebilly.com//v2.1
+  tags: Billing, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/rebilly/bankaccounts-get-openapi.md
+- name: Rebilly - Create a BankAccount with predefined ID
+  x-api-slug: bankaccountsid-put
+  description: Create or update a BankAccount with predefined identifier string
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rebilly.png
+  humanURL: https://www.rebilly.com
+  baseURL: https://api.rebilly.com//v2.1
+  tags: Billing, Relative Data, Service API
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/rebilly/bankaccountsid-put-openapi.md
 x-common:
 - type: x-website
   url: https://www.rebilly.com

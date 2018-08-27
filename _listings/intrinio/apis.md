@@ -5,16 +5,96 @@ description: Intelligent Data, On Demand. The financial data platform for develo
   investors, students, and educators, with over 200 feeds including real-time, intraday,
   EOD, and international financial data available via REST API, WebSocket, CSV, Excel,
   and Goo...
-image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/28077-intrinio.jpg
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/intrinio-logo-data-intelligence-on-demand.png
 x-kinRank: "8"
 x-alexaRank: "303229"
 tags: Banking
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/intrinio/apis.md
 specificationVersion: "0.14"
-apis: []
+apis:
+- name: Intrinio - Bank Holding Companies
+  x-api-slug: banksholding-companies-get
+  description: Returns bank holding company list and information for all bank holding
+    companies covered by Intrinio.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/intrinio-logo-data-intelligence-on-demand.png
+  humanURL: http://www.intrinio.com
+  baseURL: https://api.intrinio.com//
+  tags: SaaS, Technology, Enterprise, Financial Services, Market Data, JSON, Paid
+    Tier, REST, Free Tier, Have API Key, API Provider, Profiles, General Data, Relative
+    Data, Service API, Historical Data API, Relative StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/intrinio/banksholding-companies-get-openapi.md
+- name: Intrinio - Bank XBRL Tags and Labels
+  x-api-slug: tagsbanks-get
+  description: Returns the Bank XBRL tags and labels for a given ticker/RSSD ID, statement,
+    and date or fiscal year/fiscal quarter.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/intrinio-logo-data-intelligence-on-demand.png
+  humanURL: http://www.intrinio.com
+  baseURL: https://api.intrinio.com//
+  tags: SaaS, Technology, Enterprise, Financial Services, Market Data, JSON, Paid
+    Tier, REST, Free Tier, Have API Key, API Provider, Profiles, General Data, Relative
+    Data, Service API, Historical Data API, Relative StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/intrinio/tagsbanks-get-openapi.md
+- name: Intrinio - Bank Holding Companies
+  x-api-slug: banksholding-companies-get
+  description: Returns bank holding company list and information for all bank holding
+    companies covered by Intrinio.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/intrinio-logo-data-intelligence-on-demand.png
+  humanURL: http://www.intrinio.com
+  baseURL: https://api.intrinio.com//
+  tags: SaaS, Technology, Enterprise, Financial Services, Market Data, JSON, Paid
+    Tier, REST, Free Tier, Have API Key, API Provider, Profiles, General Data, Relative
+    Data, Service API, Historical Data API, Relative StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/intrinio/banksholding-companies-get-openapi.md
+- name: Intrinio - Bank XBRL Tags and Labels
+  x-api-slug: tagsbanks-get
+  description: Returns the Bank XBRL tags and labels for a given ticker/RSSD ID, statement,
+    and date or fiscal year/fiscal quarter.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/intrinio-logo-data-intelligence-on-demand.png
+  humanURL: http://www.intrinio.com
+  baseURL: https://api.intrinio.com//
+  tags: SaaS, Technology, Enterprise, Financial Services, Market Data, JSON, Paid
+    Tier, REST, Free Tier, Have API Key, API Provider, Profiles, General Data, Relative
+    Data, Service API, Historical Data API, Relative StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/intrinio/tagsbanks-get-openapi.md
+- name: Intrinio - Bank XBRL Tags and Labels
+  x-api-slug: tagsbanks-get
+  description: Returns the Bank XBRL tags and labels for a given ticker/RSSD ID, statement,
+    and date or fiscal year/fiscal quarter.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/intrinio-logo-data-intelligence-on-demand.png
+  humanURL: http://www.intrinio.com
+  baseURL: https://api.intrinio.com//
+  tags: SaaS, Technology, Enterprise, Financial Services, Market Data, JSON, Paid
+    Tier, REST, Free Tier, Have API Key, API Provider, Profiles, General Data, Relative
+    Data, Service API, Historical Data API, Relative StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/intrinio/tagsbanks-get-openapi.md
+- name: Intrinio - Bank Holding Companies
+  x-api-slug: banksholding-companies-get
+  description: Returns bank holding company list and information for all bank holding
+    companies covered by Intrinio.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/intrinio-logo-data-intelligence-on-demand.png
+  humanURL: http://www.intrinio.com
+  baseURL: https://api.intrinio.com//
+  tags: SaaS, Technology, Enterprise, Financial Services, Market Data, JSON, Paid
+    Tier, REST, Free Tier, Have API Key, API Provider, Profiles, General Data, Relative
+    Data, Service API, Historical Data API, Relative StreamRank, Streams
+  properties:
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/intrinio/banksholding-companies-get-openapi.md
 x-common:
+- type: x-website
+  url: http://www.intrinio.com
 - type: x-api-gallery
   url: http://international.trade.administration.api.gallery.streamdata.io
 - type: x-api-stack

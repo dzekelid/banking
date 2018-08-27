@@ -13,8 +13,8 @@ image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/l
 x-kinRank: "8"
 x-alexaRank: "0"
 tags: Banking
-created: "2018-08-25"
-modified: "2018-08-25"
+created: "2018-08-27"
+modified: "2018-08-27"
 url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/apis.md
 specificationVersion: "0.14"
 apis:
@@ -148,6 +148,71 @@ apis:
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/unsecuredsmeloans-get-postman.md
   - type: x-openapi-spec
     url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/unsecuredsmeloans-get-openapi.md
+- name: Ulster Bank - Get Unsecured SME Loans
+  x-api-slug: unsecuredsmeloans-get
+  description: This endpoint can contain multiple brands owned by a particular banking
+    group. Each brand can own multiple SME Unsecured Loan products.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.png
+  humanURL: https://digital.ulsterbank.co.uk/
+  baseURL: https://openapi.ulsterbank.co.uk/open-banking/v2.1/
+  tags: UK Banks, ATMs, General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/unsecuredsmeloans-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/unsecuredsmeloans-get-openapi.md
+- name: Ulster Bank - Get Current Business Accounts
+  x-api-slug: businesscurrentaccounts-get
+  description: This endpoint can contain multiple brands owned by a particular banking
+    group. Each brand can own multiple BCA products.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.png
+  humanURL: https://digital.ulsterbank.co.uk/
+  baseURL: https://openapi.ulsterbank.co.uk/open-banking/v2.1/
+  tags: UK Banks, ATMs, General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/businesscurrentaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/businesscurrentaccounts-get-openapi.md
+- name: Ulster Bank - Get Current Personal Accounts
+  x-api-slug: personalcurrentaccounts-get
+  description: This endpoint can contain multiple brands owned by a particular banking
+    group. Each brand can own multiple PCA products.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.png
+  humanURL: https://digital.ulsterbank.co.uk/
+  baseURL: https://openapi.ulsterbank.co.uk/open-banking/v2.1/
+  tags: UK Banks, ATMs, General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/personalcurrentaccounts-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/personalcurrentaccounts-get-openapi.md
+- name: Ulster Bank - Get Branches
+  x-api-slug: branches-get
+  description: This endpoint can contain multiple brands owned by a particular banking
+    group. Each brand can own multiple branches.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.png
+  humanURL: https://digital.ulsterbank.co.uk/
+  baseURL: https://openapi.ulsterbank.co.uk/open-banking/v2.1/
+  tags: UK Banks, ATMs, General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/branches-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/branches-get-openapi.md
+- name: Ulster Bank - Get ATMs
+  x-api-slug: atms-get
+  description: This endpoint can contain multiple brands owned by a particular banking
+    group. Each brand can provide multiple ATMs.
+  image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Ulster-Bank-Limited-2090.png
+  humanURL: https://digital.ulsterbank.co.uk/
+  baseURL: https://openapi.ulsterbank.co.uk/open-banking/v2.1/
+  tags: UK Banks, ATMs, General Data, Relative Data, Banking
+  properties:
+  - type: x-postman-collection
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-postman.md
+  - type: x-openapi-spec
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/banking/master/_listings/ulster-bank/atms-get-openapi.md
 x-common:
 - type: x-api-gallery
   url: http://uk.national.archives.api.gallery.streamdata.io
